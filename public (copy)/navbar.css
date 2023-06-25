@@ -1,0 +1,63 @@
+html, body {
+    padding: 0px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    font-family: "DM Sans";
+    background-color: #a8a8a8;
+    color: #fff;
+}
+
+#navbar {
+    position: relative;
+    display: block;
+    padding: 2em;
+    box-sizing: border-box;
+    height: fit-content;
+    width: 100%;
+    background-color: #0F0F0F;
+    border-bottom: 0.3em solid #434343;
+}
+
+.navbar-inner {
+    position: relative;
+    display: flex;
+    width: 85%;
+    left: 50%;
+    transform: translateX(-50%);
+    height: fit-content;
+    align-items: center;
+}
+
+.navbar-logo {
+    position: relative;
+    height: 3em;
+    width: 14em;
+    background-image: url("pics/BEA_FULLWHITE.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.navbar-left, .navbar-right {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    height: fit-content;
+}
+
+.navbar-right {
+    margin-left: auto;
+    margin-right: 0px;
+    right: 0px;
+}
+
+.navbar-item {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 1.5em;
+    padding-left: 1em;
+    padding-right: 1em;
+    color: #fff;
+}

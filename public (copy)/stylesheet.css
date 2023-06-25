@@ -1,0 +1,384 @@
+.landing-showcase {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-image: url("pics/XT3 Highway.jpg");
+    box-sizing: border-box;
+    padding: 9em;
+}
+
+.inline-middle-middle {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.landing-showcase-inner {
+    position: relative;
+    width: 60%;
+    height: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.section-title {
+    position: relative;
+    font-size: 2.25em;
+    margin-bottom: 1.5em;
+}
+
+.section-subtitle {
+    position: relative;
+    font-size: 1.65em;
+}
+
+.section-description {
+    position: relative;
+    font-size: 1.4em;
+}
+
+.triumph-txt {
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+}
+
+.triumph-showcase {
+    position: relative;
+    width: 100%;
+    height: 30em;
+    border-radius: 1.5em;
+    background-color: #272727;
+    margin-top: 2em;
+    box-shadow: 0px 14px 23px 10px rgba(85, 85, 85, 0.74);
+}
+
+.modular-triumph {
+    position: relative;
+    width: 100%;
+    height: fit-content;
+    background-color: #0F0E0E;
+    padding: 9em;
+    box-sizing: border-box;
+    background-image: url("pics/bg-squigles.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.mt-inner {
+    position: relative;
+    width: 65%;
+    height: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.mt-spinner {
+    position: relative;
+    display: inline-block;
+    height: 6em;
+    width: 6em;
+    margin-bottom: 1em;
+    background-image: url("pics/Crystal-1s-227px.svg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.mt-description {
+    position: relative;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.mt-integrated {
+    position: relative;
+    display: flex;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 100%;
+    width: fit-content;
+    height: fit-content;
+    padding: 2em;
+    border-radius: 1.5em;
+    background-color: #2F2A2A;
+}
+
+.mt-integrated-icon {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    height: 3em;
+    width: 3em;
+    background-image: url("pics/account_tree.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 2em;
+}
+
+.mt-integrated-left {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.mt-integrated-left .section-subtitle {
+    margin-bottom: 1em;
+}
+
+.better-business {
+    margin-top: 1em;
+    color: #949494;
+    font-family: "DM Mono";
+    letter-spacing: 0.4em;
+    font-size: 1.2em;
+}
+
+.rainbow-divider {
+    position: relative;
+    width: 100%;
+    height: 7em;
+    background-image: url("pics/rainbows.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.showcase-base-models {
+    position: relative;
+    box-sizing: border-box;
+    padding: 9em;
+    background-color: #0F0E0E;
+}
+
+.showcase-mb-inner {
+    position: relative;
+    width: 65%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.showcase-mb-top {
+    margin-bottom: 2em;
+}
+
+.showcase-mb-top .mt-spinner, .showcase-mb-top .section-title {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0px;
+}
+
+.showcase-mb-top .mt-spinner {
+    margin-left: 3em;
+}
+
+.showcase-mb-bmodules {
+    padding-top: 2em;
+    margin-bottom: 2em;
+}
+
+.module {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #2F2A2A;
+    padding: 1em;
+    width: 10em;
+    height: 15em;
+    margin-bottom: 0.5em;
+    border-radius: 1em;
+    cursor: pointer;
+    transition: 0.3s ease all;
+}
+
+.module:hover .module-text {
+    bottom: 2em;
+}
+
+.module-number {
+    font-size: 2.5em;
+    font-weight: 300;
+    font-family: "DM Mono";
+}
+
+.module-text {
+    position: absolute;
+    font-size: 1.3em;
+    text-transform: uppercase;
+    font-family: "DM Mono";
+    bottom: 1.5em;
+    transition: 0.3s ease all;
+}
+
+.client-showcase {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: #0F0E0E;
+    height: fit-content;
+}
+
+.client-showcase-right {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    width: 40%;
+    padding: 6em;
+    box-sizing: border-box;
+    background-color: #2F2A2A;
+    background-image: url("pics/34939814042_74f03e9aee_k.jpg");
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.client-showcase-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: #0F0E0E;
+    opacity: 0.7;
+}
+
+.client-showcase-inner {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+
+.quote-start, .quote-end {
+    position: relative;
+    height: 2em;
+    width: 2em;
+    display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.quote-start {
+    vertical-align: top;
+    background-image: url("pics/quote_start.png");
+}
+
+.quote-end {
+    vertical-align: bottom;
+    background-image: url("pics/quote_end.png");
+}
+
+.client-quote {
+    position: relative;
+    max-width: 70%;
+    padding: 0.5em;
+    font-size: 1.5em;
+    display: inline-block;
+}
+
+.client-quote-container {
+    position: relative;
+    height: fit-content;
+    display: table-cell;
+    left: 50%;
+    transform: translateX(-50%);
+    vertical-align: middle;
+}
+
+.client-showcase-left {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    padding: 6em;
+    width: 60%;
+    box-sizing: border-box;
+}
+
+.client-showcase-title {
+    margin-bottom: 2em;
+}
+.client-showcase-title .section-title {
+    margin-bottom: 0px;
+}
+
+.client-showcase-left .section-subtitle {
+    position: relative;
+    margin-bottom: 1em;
+}
+
+.client-showcase-left .section-description {
+    margin-bottom: 1em;
+}
+
+.arrow-link:hover .arrow-icon {
+    margin-left: 3em;
+}
+
+.arrow-icon {
+    position: relative;
+    height: 2em;
+    width: 3em;
+    background-image: url("pics/arrow.png");
+    background-size: cover;
+    background-position: center;
+    margin-left: 2em;
+    transition: 0.3s ease all;
+    background-repeat: no-repeat;
+}
+
+.quote-icon {
+    position: relative;
+    height: 3em;
+    width: 3em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("pics/quote_icon.png");
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 1em;
+}
+
+.arrow-txt {
+    position: relative;
+    font-size: 1.65em;
+}
+
+.quote-details {
+    margin-top: 2em;
+}
+
+.quote-author {
+    font-size: 1.3em;
+}
+
+.quote-author-name {
+    font-family: "PT Sans";
+}
+
+.quote-author-title {
+    color: #949494;
+}
+
+.quote-company {
+    font-size: 1.4em;
+    font-family: "PT Sans";
+    margin-bottom: 1.5em;
+    text-align: center;
+}
+
+.arrow-txt, .arrow-icon {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+}
