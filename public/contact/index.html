@@ -4,26 +4,62 @@
     <head>
         <meta charset="'utf-8">
         <title>Contact Page</title>
+        <link rel="stylesheet" href="/navbar-footer.css" />
         <link rel="stylesheet" href="stylesheet.css">
-        <link rel="preconnect" href="https://fonts.googleapis.com%22%3E/
-        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@400;500;700&family=PT+Sans&display=swap" rel="stylesheet">
     </head>
 
     <body>
-        <h1>Contact Us</h1>
-        <div class="main">
-            <span class="text">Get in touch with us by phone or submit an inquiry form below.<br> <br>Request a free consolation or demo, we are also more than happy to assist with any general inquires.  </span>
-            <div class="input-container">
-                <div class="name"> 
-                    <input type="name" id="first-name" placeholder="First Name">
-                    <input type="name" id="last-name" placeholder="Last Name">
+
+        <div id="_navbar">
+            <div id="navbar">
+    
+                <div class="navbar-inner">
+                    <div class="navbar-left">
+                        <a href="/">
+                            <div class="navbar-logo"></div>
+                        </a>
+                    </div>
+                    <div class="navbar-right">
+                        <div class="navbar-item">Solutions</div>
+                        <div class="navbar-item">Services</div>
+                        <div class="navbar-item">Company</div>
+                        <div class="navbar-item">Support</div>
+                        <a href="contact/index.html">
+                            <div class="navbar-item">Contact</div>
+                        </a>
+                    </div>
                 </div>
-                <input type="email" id="email-address" placeholder="Email Address">
-                <input type="phone" id="phone-number" placeholder="Phone Number">
-                <input type="message" id="message" placeholder="Message">
+    
             </div>
         </div>
+
+        <div class="contact-us">
+            <div class="contact-text">
+                <div class="client-showcase-overlay"></div>
+                <div class="section-title">Contact Us</div>
+                <div class="section-subtitle">Get in touch with us by phone or submit an inquiry form below.<br> <br>Request a free consolation or demo, we are also more than happy to assist with any general inquires. </div>
+            </div>
+            <div class="contact-inputs">
+                <div class="input-container">
+                    <div class="mt-spinner" style="background-image: url('pics/contacts.png')"></div>
+                    <div class="name"> 
+                        <input type="text" id="first-name" placeholder="First Name">
+                        <input type="text" id="last-name" placeholder="Last Name">
+                    </div>
+                    <input type="text" id="email-address" placeholder="Email Address">
+                    <input type="text" id="phone-number" placeholder="Phone Number">
+                    <textarea id="message" placeholder="Enter your message here. You may even request a callback if you wish!"></textarea>
+                </div>
+                <div class="arrow-link">
+                    <div class="arrow-txt">Send your message</div>
+                    <div class="arrow-icon"></div>
+                </div>
+            </div>
+        </div>
+        
     </body>
 
     </html>

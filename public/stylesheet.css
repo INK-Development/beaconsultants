@@ -288,7 +288,7 @@
 
 .client-quote-container {
     position: relative;
-    height: fit-content;
+    height: 45%;
     display: table-cell;
     left: 50%;
     transform: translateX(-50%);
@@ -318,6 +318,15 @@
 
 .client-showcase-left .section-description {
     margin-bottom: 1em;
+}
+
+.client-quote-container .arrow-link {
+    position: relative;
+    margin-top: 2em;
+}
+
+.arrow-link {
+    cursor: pointer;
 }
 
 .arrow-link:hover .arrow-icon {
