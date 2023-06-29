@@ -75,16 +75,24 @@ html, body {
     display: inline-block;
     vertical-align: middle;
     cursor: pointer;
+    outline: none;
     text-decoration: none !important;
     font-size: 1.5em;
-    padding-left: 1em;
-    padding-right: 1em;
+    padding: 0.5em 0em;
+    margin-left: 1em;
+    margin-right: 1em;
     transition: 0.5s ease all;
     color: #fff !important;
+    border-bottom: 0.1em solid #000;
+}
+
+.navbar-right a {
+    text-decoration: none;
+    outline: none;
 }
 
 .navbar-item:hover {
-    letter-spacing: 0.2em;
+    border-bottom: 0.1em solid #fff;
 }
 
 .footer {

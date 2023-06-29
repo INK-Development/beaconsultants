@@ -156,6 +156,11 @@
     position: relative;
     box-sizing: border-box;
     padding: 9em;
+    background-image: url("/pics/bg-squigles2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     background-color: #0F0E0E;
 }
 
