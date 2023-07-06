@@ -5,7 +5,7 @@ html, body {
     width: 100%;
     font-family: "DM Sans";
     background-color: #a8a8a8;
-    color: #fff;
+    color: #000;
 }
 
 #navbar, #footer {
@@ -15,12 +15,13 @@ html, body {
     box-sizing: border-box;
     height: fit-content;
     width: 100%;
-    background-color: #000;
-    border-bottom: 0.3em solid #434343;
+    background-color: #fff;
+    color: #000;
+    border-bottom: 0.3em solid #bcbcbc;
 }
 
 #footer {
-    border-top: 0.3em solid #434343;
+    border-top: 0.3em solid #bcbcbc;
     border-bottom: 0.3em;
 }
 
@@ -49,9 +50,9 @@ html, body {
 
 .navbar-logo {
     position: relative;
-    height: 3em;
-    width: 14em;
-    background-image: url("pics/BEA_FULLWHITE.png");
+    height: 7em;
+    width: 18em;
+    background-image: url("pics/BEA_BLACK.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -82,7 +83,7 @@ html, body {
     margin-left: 1em;
     margin-right: 1em;
     transition: 0.5s ease all;
-    color: #fff !important;
+    color: #000 !important;
     border-bottom: 0.1em solid #000;
 }
 
