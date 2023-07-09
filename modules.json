@@ -1,0 +1,143 @@
+[{
+        "id": "DEBTORS",
+        "name": "Debtors",
+        "product": "BASE_PACK",
+        "layout": [{
+                "type": "title",
+                "text": "Using a system which helps better monitor your cash flow and expedite collections is the easy way to triumph over slow paying debtors"
+            },
+            {
+                "type": "subtitle",
+                "text": "Debtors"
+            },
+            {
+                "type": "description",
+                "text": "Triumph ERP's Debtors module includes invoicing capability complete with GST calculations and reporting. Inquiries on invoices can reveal the complete transaction details and invoices can be reprinted whenever they are required. Receipts do not need to be applied immediately when entered and, if found to be matched to the wrong invoice, they may be unapplied."
+            },
+            {
+                "type": "image",
+                "text": "Digital images of each stock item can be displayed during invoice entry.",
+                "url": "Debtor-Invoice-Entry-2020-11-27_15-02-10-600x355.png"
+            },
+            {
+                "type": "description",
+                "text": "You can choose to operate each debtor account as open item or brought forward. And you can determine customer specific credit terms, discounts, charges and retentions. You can even have accounts with multiple delivery addresses, different ageing periods for different customers and apply charges to overdue accounts. Statements can be managed on a debtor by debtor basis for printing, faxing or email distribution."
+            },
+            {
+                "type": "image",
+                "text": "All forms are customisable through Crystal Reports and can be printed or emailed.",
+                "url": "Debtor-Tax-Invoice-Form-2020-11-27_15-03-32-768x568.png"
+            },
+            {
+                "type": "description",
+                "text": "Triumph's Debtors module includes a special “notes” feature, in which you can record important comments and information on individual accounts. ‘Overdue' letters or other important account correspondence can be generated at the click of a button with the built-in Microsoft Word interface. The transaction history of any debtor can be held for up to 7 years and, through a powerful parent/child relationship, Triumph Accounting can report on specific groups of debtors."
+            }
+        ]
+    },
+    {
+        "id": "CREDITORS",
+        "name": "Creditors",
+        "layout": [{
+                "type": "title",
+                "text": "Paying suppliers on time and winning settlement discounts is a great triumph you can easily enjoy"
+            },
+            {
+                "type": "description",
+                "text": "Triumph's ERP Creditors module puts great flexibility in your hands, allowing you the choice of open item or brought forward accounts, different ageing periods for different accounts and credit terms you can define to take advantage of the best times to pay.<br><br>The system provides you with a cheque and remittance advice printing facility as well as automatic updating of Triumph's General Ledger and Inventory modules. You can even nominate if a remittance advice is to be printed, faxed or emailed on a creditor by creditor basis. Automatic payment processing allows you to choose which invoices are to be paid at specific times. And a quick inquiry allows you to see any outstanding purchase orders that may have been raised for a particular supplier.<br><br>You can determine any retentions to be held against invoices, program withholding tax and automatically allocate disbursements to individual items on the invoice.<br><br>Similar to Triumph's Debtors module, a powerful parent/child relationship can be used to report on specific groups of creditors. You can retain creditors' histories for up to 7 years, and statistics and notes can be kept on all creditors' accounts."
+            },
+            {
+                "type": "image",
+                "text": "Flexible payment notification options to print, fax or email remittance advice.",
+                "url": "Creditor-Acc-Maint-2017-09-05_12-36-05.png"
+            }
+        ]
+    },
+    {
+        "id": "GENERAL_LEDGER",
+        "name": "General Ledger",
+        "layout": [{
+                "type": "title",
+                "text": "Triumph ERP's General Ledger module is the easy way to analyse your organisation's financial performance"
+            },
+            {
+                "type": "description",
+                "text": "The General Ledger details all financial transactions of all accounts so as to accurately account for and forecast the company's financial health. With Triumph's General Ledger, you design your chart of accounts according to your organisational structure. It's a breeze to set-up and modify and is all done on-screen without the need for unduly complicated account codes.<br><br>A system which reports your total financial position accurately is Triumph ERP's General Ledger module; the easy way to analyse your organisation's financial performance.<br><br>If your organisation is multi-divisional, your chart of accounts can easily be duplicated and, if necessary, modified for each division. Transaction across divisions are automatically self balancing into inter-divisional loan accounts, plus Triumph's General Ledger reports allow you to nominate report periods, the range of accounts, level of detail and type of rounding.<br><br>With multi-division organisations, you can produce consolidated reports or report on a single division.<br><br>Triumph's General Ledger is designed to fully and immediately integrate with other Triumph modules, resulting in automatic postings and completely up-to-date balances. With its simple on-screen inquiry function, you can search easily for details of any transactions, viewing both sides of the journal entry."
+            },
+            {
+                "type": "image",
+                "text": "Immediate on-line postings allow you to get an accurate up to the minute balance on any account.",
+                "image": "gl-enquiry.gif"
+            },
+            {
+                "type": "description",
+                "text": "The ability to define as many as 18 financial periods and the capacity to post entries to earlier periods while working in a later one, gives great flexibility. Automatic accrual reversals and built-in defaults result in faster processing. Plus budget forecasting-to-actual comparisons, and the ability to transfer reports to spreadsheets for additional analysis, adds further dimensions to the Triumph ERP General Ledger."
+            }
+        ]
+    },
+    {
+        "id": "INVENTORY",
+        "name": "Inventory",
+        "product": "BASE_PACK",
+        "layout": [{
+                "type": "title",
+                "text": "Powerful connections make Triumph ERP’s Inventory module the easy way to manage your investment in stock"
+            },
+            {
+                "type": "description",
+                "text": "Inventory is the goods and materials a business acquires, produces or manufactures, for the purpose of manufacturing, selling or exchanging. With Triumph ERP you will have total control over GST, costing methods, pricing, discount rates and Wine Equalisation Tax (WET). For retailers, wholesalers and manufacturers, you can determine up to six different levels of pricing, manage your discount structures by customer and product groups; and make price amendments and updates at any stage of your operations.<br><br>Triumph’s Inventory module includes automatic re-ordering either by economic order quantities or maximum re-order levels, detailed notes on individual stock items and listings of alternate suppliers. Digital images of each stock item may be maintained on the system and displayed during invoice entry operations.<br><br>Multi-Location Stock allows you to keep track of stock holdings and costs at different warehouse and logistic points. Your reporting can include automatic conversions of stock-order quantities to sales; stock items status and valuations; stock movement; and price lists."
+            },
+            {
+                "type": "image",
+                "text": "Stock Item Enquiry gives you a complete snap shot at a glance",
+                "url": "Inventory-Screenshot.gif"
+            }
+        ]
+    },
+    {
+        "id": "BANK_RECONCILIATION",
+        "name": "Bank Reconciliation",
+        "product": "BASE_PACK",
+        "layout": [{
+                "type": "title",
+                "text": "Know exactly what your cash position is quickly and easily with Triumph ERP’s Bank Reconciliation module."
+            },
+            {
+                "type": "description",
+                "text": "A bank reconciliation is the process by which the bank account balance in an entity’s books of account is reconciled to the balance reported by the financial institution in the most recent bank statement. Any difference between the two figures needs to be examined and, if appropriate, rectified. With the Triumph ERP software Bank Reconciliation module, all banking functions are centrally controlled so you can do a bank reconciliation in minutes instead of hours. It automatically calculates your exact cash position at any given time so you know precisely how much cash you have to run your business and invest. The Triumph Bank Reconciliation module is dependent on the General Ledger and integrates with the Debtors, Point of Sale and Creditors modules.<br><br>You can reconcile any number of bank accounts, including transaction and credit card accounts. In a multi-divisional organisation, you can operate a corporate bank account and have each division effecting their own deposits.<br><br>Direct transfers, direct debits and credits are easily entered. And if your reconciliation doesn’t balance, the inquiry screen and reports will help you find your error in double-quick time.<br><br>When you reconcile your business bank account, you compare your internal financial records against the records provided to you by your bank.  Triumph ERP also offers even greater efficiency with an Automatic Bank Reconciliation option. With the advent of on-line and internet banking, information can be automatically entered and matched against your records. This reconciliation helps you identify any unusual transactions that might be caused by fraud or accounting errors, and they can also help you spot inefficiencies.  <br><br>Reconciliation is an accounting process that ensures that the actual amount of money spent matches the amount shown leaving an account at the end of a fiscal period. With Triumph ERP you perform reconciliation at regular intervals with greater efficiency and ease when checking for errors or fraudulent activity."
+            },
+            {
+                "type": "image",
+                "text": "Immediate on-line postings allow you to get an accurate up to the minute balance on any account.",
+                "url": "reconciliation-768x489.gif"
+            }
+        ]
+    },
+    {
+        "id": "EFT_PAYMENTS",
+        "name": "EFT Payments",
+        "product": "BASE_PACK",
+        "layout": [{
+                "type": "title",
+                "text": "Paying suppliers by Triumph’s EFT module is both expedient and efficient for you and your suppliers"
+            },
+            {
+                "type": "description",
+                "text": "Nominate on a creditor by creditor basis if they are to be paid by EFT. This will require additional information such as their BSB number and account number. To aid this process Triumph ERP continually provides an up-to-date list of banks and their BSB numbers.<br><br>As part of the Automatic Payment Process an electronic banking file, in either an Australian or overseas banking format, is produced. A special CRC security check is also made on this file to ensure no one tampers with it. This file can then be uploaded to the relevant bank for processing. It couldn’t be easier."
+            },
+            {
+                "type": "image",
+                "text": "Up-to-date banking details make it easy to pick out the right BSB number.",
+                "image": "ef-creditor-maint.gif"
+            }
+        ]
+    },
+    {
+        "id": "SALES_ORDER_ENTRY",
+        "name": "Sales Order Entry",
+        "product": "SALES_DEBTORS",
+        "layout": [{
+            "type": "title",
+            "text": "When the key to exemplary customer service is to fulfill orders quickly, Triumph ERP’s Sales Order Entry system is the easy way."
+        }]
+    }
+]

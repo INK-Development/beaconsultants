@@ -7,7 +7,7 @@ html, body {
     background-color: #010203;
 }
 
-h1{
+h1 {
     position: relative;
     font-family: DM Sans;
     font-size: 2em;
@@ -170,7 +170,7 @@ h1{
     position: relative;
     width: 100%;
     padding: 6em;
-    background-color: #171717;
+    background-color: #e8e8e8;
     box-sizing: border-box;
 }
 
@@ -181,7 +181,7 @@ h1{
 .section-name {
     position: relative;
     width: 100%;
-    border-bottom: 0.1em solid #fff;
+    border-bottom: 0.1em solid #000000;
     padding-bottom: 0.5em;
     margin-bottom: 1em;
     font-size: 1.5em;
@@ -240,9 +240,10 @@ h1{
     position: relative;
     display: inline-block;
     vertical-align: middle;
+    color: #fff;
     background-color: #2F2A2A;
     padding: 1em;
-    width: 10em;
+    width: 12em;
     height: 15em;
     margin-bottom: 0.5em;
     border-radius: 1em;
@@ -306,9 +307,9 @@ h1{
 .section-dropdown-title {
     position: relative;
     font-size: 1.4em;
-    color: #ccc;
+    color: #434343  ;
     font-family: "DM Mono";
-    margin-bottom: 0.25em;
+    margin-bottom: 0.5em;
     letter-spacing: 0.7em;
 }
 

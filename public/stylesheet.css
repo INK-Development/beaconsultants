@@ -24,6 +24,7 @@
 .landing-showcase {
     position: relative;
     width: 100%;
+    color: #fff !important;
     height: fit-content;
     background-position: center;
     background-repeat: no-repeat;
@@ -32,6 +33,10 @@
     background-image: url("pics/XT3_Remix.png");
     box-sizing: border-box;
     padding: 9em;
+}
+
+.landing-showcase .section-title-huge {
+    color: #fff;
 }
 
 .inline-middle-middle {
@@ -287,7 +292,7 @@
     width: 100%;
     top: 0px;
     left: 0px;
-    background-color: #F0F1F1;
+    background-color: #000;
     opacity: 0.55;
 }
 
@@ -323,6 +328,7 @@
     max-width: 70%;
     padding: 0.5em;
     font-size: 1.5em;
+    color: #fff;
     display: inline-block;
 }
 
@@ -362,6 +368,7 @@
 
 .client-quote-container .arrow-link {
     position: relative;
+    color: #fff;
     margin-top: 2em;
 }
 
