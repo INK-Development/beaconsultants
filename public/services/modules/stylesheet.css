@@ -110,6 +110,6 @@
     width: 100%;
     background-color: #ccc;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }

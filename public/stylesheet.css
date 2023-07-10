@@ -64,7 +64,6 @@
     position: relative;
     font-size: 3em;
     margin-bottom: 0.5em;
-    color: #6C2EFF;
 }
 
 .section-subtitle {
@@ -322,6 +321,8 @@
     vertical-align: bottom;
     background-image: url("pics/quote_end.png");
 }
+
+.quote-author-name { color: #fff; }
 
 .client-quote {
     position: relative;
