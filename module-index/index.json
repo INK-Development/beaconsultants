@@ -1,0 +1,1294 @@
+[
+    {
+        "id": "DEBTORS",
+        "name": "Debtors",
+        "product": "BASE_PACK",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Using a system which helps better monitor your cash flow and expedite collections is the easy way to triumph over slow paying debtors"
+            },
+            {
+                "type": "subtitle",
+                "text": "Debtors"
+            },
+            {
+                "type": "description",
+                "text": "Triumph ERP's Debtors module includes invoicing capability complete with GST calculations and reporting. Inquiries on invoices can reveal the complete transaction details and invoices can be reprinted whenever they are required. Receipts do not need to be applied immediately when entered and, if found to be matched to the wrong invoice, they may be unapplied."
+            },
+            {
+                "type": "image",
+                "text": "Digital images of each stock item can be displayed during invoice entry.",
+                "url": "Debtor-Invoice-Entry-2020-11-27_15-02-10-600x355.png"
+            },
+            {
+                "type": "description",
+                "text": "You can choose to operate each debtor account as open item or brought forward. And you can determine customer specific credit terms, discounts, charges and retentions. You can even have accounts with multiple delivery addresses, different ageing periods for different customers and apply charges to overdue accounts. Statements can be managed on a debtor by debtor basis for printing, faxing or email distribution."
+            },
+            {
+                "type": "image",
+                "text": "All forms are customisable through Crystal Reports and can be printed or emailed.",
+                "url": "Debtor-Tax-Invoice-Form-2020-11-27_15-03-32-768x568.png"
+            },
+            {
+                "type": "description",
+                "text": "Triumph's Debtors module includes a special “notes” feature, in which you can record important comments and information on individual accounts. 'Overdue' letters or other important account correspondence can be generated at the click of a button with the built-in Microsoft Word interface. The transaction history of any debtor can be held for up to 7 years and, through a powerful parent/child relationship, Triumph Accounting can report on specific groups of debtors.",
+            }
+        ]
+    },
+    {
+        "id": "CREDITORS",
+        "name": "Creditors",
+        "product": "BASE_PACK",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Paying suppliers on time and winning settlement discounts is a great triumph you can easily enjoy"
+            },
+            {
+                "type": "description",
+                "text" : "Triumph's ERP Creditors module puts great flexibility in your hands, allowing you the choice of open item or brought forward accounts, different ageing periods for different accounts and credit terms you can define to take advantage of the best times to pay.<br><br>The system provides you with a cheque and remittance advice printing facility as well as automatic updating of Triumph's General Ledger and Inventory modules. You can even nominate if a remittance advice is to be printed, faxed or emailed on a creditor by creditor basis. Automatic payment processing allows you to choose which invoices are to be paid at specific times. And a quick inquiry allows you to see any outstanding purchase orders that may have been raised for a particular supplier.<br><br>You can determine any retentions to be held against invoices, program withholding tax and automatically allocate disbursements to individual items on the invoice.<br><br>Similar to Triumph's Debtors module, a powerful parent/child relationship can be used to report on specific groups of creditors. You can retain creditors' histories for up to 7 years, and statistics and notes can be kept on all creditors' accounts."
+            },
+            {
+                "type": "image",
+                "text": "Flexible payment notification options to print, fax or email remittance advice.",
+                "url": "Creditor-Acc-Maint-2017-09-05_12-36-05.png"
+            }
+        ]
+    },
+    {
+        "id": "GENERAL_LEDGER",
+        "name": "General Ledger",
+        "product": "BASE_PACK",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Triumph ERP's General Ledger module is the easy way to analyse your organisation's financial performance"
+            },
+            {
+                "type": "description",
+                "text": "The General Ledger details all financial transactions of all accounts so as to accurately account for and forecast the company's financial health. With Triumph's General Ledger, you design your chart of accounts according to your organisational structure. It's a breeze to set-up and modify and is all done on-screen without the need for unduly complicated account codes.<br><br>A system which reports your total financial position accurately is Triumph ERP's General Ledger module; the easy way to analyse your organisation's financial performance.<br><br>If your organisation is multi-divisional, your chart of accounts can easily be duplicated and, if necessary, modified for each division. Transaction across divisions are automatically self balancing into inter-divisional loan accounts, plus Triumph's General Ledger reports allow you to nominate report periods, the range of accounts, level of detail and type of rounding.<br><br>With multi-division organisations, you can produce consolidated reports or report on a single division.<br><br>Triumph's General Ledger is designed to fully and immediately integrate with other Triumph modules, resulting in automatic postings and completely up-to-date balances. With its simple on-screen inquiry function, you can search easily for details of any transactions, viewing both sides of the journal entry."
+            },
+            {
+                "type": "image",
+                "text": "Immediate on-line postings allow you to get an accurate up to the minute balance on any account.",
+                "image": "gl-enquiry.gif"
+            },
+            {
+                "type": "description",
+                "text": "The ability to define as many as 18 financial periods and the capacity to post entries to earlier periods while working in a later one, gives great flexibility. Automatic accrual reversals and built-in defaults result in faster processing. Plus budget forecasting-to-actual comparisons, and the ability to transfer reports to spreadsheets for additional analysis, adds further dimensions to the Triumph ERP General Ledger."
+            }
+        ]
+    },
+    {
+    	"id": "INVENTORY",
+        "name": "Inventory",
+        "product": "BASE_PACK",
+        "layout": [
+      	    {   
+        	    "type": "title",
+                "text": "Powerful connections make Triumph ERP's Inventory module the easy way to manage your investment in stock"
+            },
+            {
+			    "type": "description",
+                "text": "Inventory is the goods and materials a business acquires, produces or manufactures, for the purpose of manufacturing, selling or exchanging. With Triumph ERP you will have total control over GST, costing methods, pricing, discount rates and Wine Equalisation Tax (WET). For retailers, wholesalers and manufacturers, you can determine up to six different levels of pricing, manage your discount structures by customer and product groups; and make price amendments and updates at any stage of your operations.<br><br>Triumph’s Inventory module includes automatic re-ordering either by economic order quantities or maximum re-order levels, detailed notes on individual stock items and listings of alternate suppliers. Digital images of each stock item may be maintained on the system and displayed during invoice entry operations.<br><br>Multi-Location Stock allows you to keep track of stock holdings and costs at different warehouse and logistic points. Your reporting can include automatic conversions of stock-order quantities to sales; stock items status and valuations; stock movement; and price lists."
+            },
+            {
+        	    "type": "image",
+                "text": "Stock Item Enquiry gives you a complete snap shot at a glance",
+                "url": "Inventory-Screenshot.gif"
+            }
+        ]
+    },
+    {
+        "id": "BANK_RECONCILIATION",
+        "name": "Bank Reconciliation",
+        "product": "BASE_PACK",
+        "layout": [
+      	    {
+                "type": "title",
+                "text": "Know exactly what your cash position is quickly and easily with Triumph ERP's Bank Reconciliation module."
+            },
+            {
+                "type": "description",
+                "text": "A bank reconciliation is the process by which the bank account balance in an entity's books of account is reconciled to the balance reported by the financial institution in the most recent bank statement. Any difference between the two figures needs to be examined and, if appropriate, rectified. With the Triumph ERP software Bank Reconciliation module, all banking functions are centrally controlled so you can do a bank reconciliation in minutes instead of hours. It automatically calculates your exact cash position at any given time so you know precisely how much cash you have to run your business and invest. The Triumph Bank Reconciliation module is dependent on the General Ledger and integrates with the Debtors, Point of Sale and Creditors modules.<br><br>You can reconcile any number of bank accounts, including transaction and credit card accounts. In a multi-divisional organisation, you can operate a corporate bank account and have each division effecting their own deposits.<br><br>Direct transfers, direct debits and credits are easily entered. And if your reconciliation doesn’t balance, the inquiry screen and reports will help you find your error in double-quick time.<br><br>When you reconcile your business bank account, you compare your internal financial records against the records provided to you by your bank.  Triumph ERP also offers even greater efficiency with an Automatic Bank Reconciliation option. With the advent of on-line and internet banking, information can be automatically entered and matched against your records. This reconciliation helps you identify any unusual transactions that might be caused by fraud or accounting errors, and they can also help you spot inefficiencies.  <br><br>Reconciliation is an accounting process that ensures that the actual amount of money spent matches the amount shown leaving an account at the end of a fiscal period. With Triumph ERP you perform reconciliation at regular intervals with greater efficiency and ease when checking for errors or fraudulent activity."
+            },
+            {
+                "type": "image",
+                "text": "Immediate on-line postings allow you to get an accurate up to the minute balance on any account.",
+                "url": "reconciliation-768x489.gif"
+            }
+        ]
+    },
+	{
+    	"id": "EFT_PAYMENTS",
+        "name": "EFT Payments",
+        "product": "BASE_PACK",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Paying suppliers by Triumph's EFT module is both expedient and efficient for you and your suppliers"
+            },
+            {
+                "type": "description",
+                "text": "Nominate on a creditor by creditor basis if they are to be paid by EFT. This will require additional information such as their BSB number and account number. To aid this process Triumph ERP continually provides an up-to-date list of banks and their BSB numbers.<br><br>As part of the Automatic Payment Process an electronic banking file, in either an Australian or overseas banking format, is produced. A special CRC security check is also made on this file to ensure no one tampers with it. This file can then be uploaded to the relevant bank for processing. It couldn’t be easier."
+            },
+            {
+                "type": "image",
+                "text": "Up-to-date banking details make it easy to pick out the right BSB number.",
+                "image": "ef-creditor-maint.gif"
+            }
+        ]
+    },
+	{
+	    "id": "SALES_ORDER_ENTRY",
+        "name": "Sales Order Entry",
+        "product": "SALES_DEBTORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "When the key to exemplary customer service is to fulfill orders quickly, Triumph ERP's Sales Order Entry system is the easy way."
+            },
+            {
+                "type": "subtitle",
+                "text": "Sales Order Entry"
+            },
+            {
+                "type": "description",
+                "text": "The Triumph Sales Order Entry software process is a simple way to manage the fulfilment of orders and delivery of goods. You can produce a complete range of documentation-including picking slips, delivery dockets and invoices. Picked orders status can be optionally confirmed, with the ability to substitute, add and remove items as required. Quotations and standing orders can be prepared and recorded and, when accepted, they can be simply converted to orders. Delivery dockets can be produced in order of delivery round or drop for logistics control, and can include a manifest if it is required.<br> <br>Through an “automatic purchase creation facility” integrated with Triumph's Purchase Ordering module, you have complete control over your back-orders. Of course, full integration with Triumph's Debtors and Inventory modules ensures prompt processing when stock is to hand or circumstances permit delivery.<br> <br>A very handy and unique feature is Triumph's “exception processing”, allowing you to fast-track the order process without losing the audit trail. Flexible invoicing enables you to include stock items, non stock items, service and miscellaneous charges, and as many lines of description as you find necessary. Invoices may be edited by authorised operators prior to printing and posting."
+            },
+            {
+                "type": "image",
+                "text": "Processing orders to invoices is simple and easy.",
+                "url": "salesorder-entry.png"
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Sales Order Entry Enables you to;"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Process and fulfil customer orders and back orders quickly and accurately<ul>Create Template Quotes, Customer Quotes, Orders, and Standing Orders<ul>Quickly import orders from an external source<ul>Raise a Purchase Request for backordered items<ul>Allocate backorders to incoming purchase order<ul>Optionally print picking slips and delivery dockets<ul>Confirm picked quantities, supplementing or exchanging shortfall items<ul>Create delivery manifests in driver and drop order<ul>Each customer can nominate if backorders and part deliveries are accepted<ul>Optionally edit invoice before processing<ul>Process and create periodic standing orders<ul>Enquire, Reprint or Cancel picking slips, delivery dockets and invoices<ul>FIFO Backorder processing with manual override<ul>Report on lost sales opportunities<ul>Track freight delivery progress"
+            }
+        ]
+    },
+    {
+        "id": "ADVANCED_SALES_ORDERS",
+        "name": "Advanced Sales Orders",
+        "product": "SALES_DEBTORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Advanced Sales Orders offers you advanced features not found in Sales Order Entry"
+            },
+            {
+                "type": "subtitle",
+                "text": "Advanced Sales Orders"
+            },
+            {
+                "type": "description",
+                "text": "Direct Debits- when a batch of orders is processed and invoiced, the system will create a direct debit banking file that can be electronically sent to the bank for processing. When you combine this with Standing Orders, it becomes a very efficient way to process regular orders and invoices and get paid immediately. Think of a service provider in the care industry dealing with elderly people, as long as the direct debit authority has been agreed to, this will make it easier and more streamlined for all parties<br> <br>Order Deposits- have the ability to record deposit amounts on orders is a real benefit for customers. With external web based orders usually requiring a deposit, this type of operation is happening more and more. By combining the order and the deposit together, they can be handled as a single transaction, with the capability to generate a matching invoice to the payment automatically, instead of having to be a manual process at a later stage.<br> <br>Paperless Picking- allows handheld mobile scanning computers to guide the picker through the warehouse, showing them what to pick1. This in turn makes pickers more efficient and more accurate, which is very important if dealing with higher value goods. Orders can be split into multiple picking slips by department, e.g. frozen and dry goods, and prioritised based on customer, as well as split into different customer groups, such as country or metro. A management dashboard provides full control over order priorities and who is picking what, as well as an overview of workload and performance."
+            },
+            {
+                "type": "annotation",
+                "text": "1Paperless Picking requires suitable scanning device, e.g. Intermec CN51 with wireless or cellular connections recommended, and a Triumph login/user for each device. It also requires the mobile communications software, which is $500 ex per five scanners."
+            }
+            {
+                "type": "description",
+                "text": "<br> <br>Kitting- gain the ability to change or modify individual components of a finished product to suit the customers' needs2. Kitting is suited towards companies that sell products that are packaged or group together, creating kits. Within the Bills of Materials module, these individual components come together like a recipe forming the single product.<br> <br>Previously, the individual components of the kit were fixed, but now, if a customer wants to change or modify the order, the Advanced Sale Order module can complete the task. The kitting functionality will drill into the recipe on the sales order line, modify it as requested, change the price and quantity, and reflect it on the invoice. This modified kit will then belong to the individual customer on a specific customer line. This functionality works best for businesses that would like the ability to change orders on the fly."
+            }
+            {
+                "type": "annotation",
+                "text": "2Note that the Bill of Materials module is needed for the kitting functionality."
+            },
+            {
+                "type": "description",
+                "text": "<br> <br>Advanced Picking- allows you to split stock items on picking slips into specific, allocated picking areas. Within a warehouse, there may be multiple picking areas, so when the order is placed, it will be printed in the required location.<br> <br>For example, a pet store has two picking areas within their warehouse - dry goods and freezer. The person who picks for the dry goods is different to the person who picks for the freezer. Therefore, to make the process more efficient, the order is split by area and printed accordingly. To further classify or segregate customers, the picking slips can be split by delivery zone or priority. In large warehouses, metro, regional and country deliveries may have different trucks or couriers. By splitting the picking slips by delivery zones, the pickers know exactly which truck stock needs to be packed onto, speeding up the picking process.<br> <br>Having the option of ranking orders based on priority gives your picking process efficiency and control. The advanced picking functionality is available for all businesses, whether they use paper or mobile technology. For businesses that use mobile technology, advanced picking works directly with the Paperless Pickings Module and the handheld scanners. The picking slips are sent to the handheld scanners in the allocated picking areas for the pickers to access."
+            },
+            {
+                "type": "image",
+                "text": "Setting up Direct Debt details is easy",
+                "url": "dd-setup.png",
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Advanced Sales Orders Enables you to:"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Enables you to enter and manage advances sales order entry features<ul>Record multiple deposits against an order<ul>Deposits are automatically applied to invoices when created<ul>Deposits can be cancelled/reversed at any time<ul>Automatically create a direct debit banking file for a batch of orders that are being invoiced<ul>Set the bank account and bank processing date when processing the invoices<ul>An automatic receipt is created and applied against the invoice<ul>Both standing orders and normal orders can be flagged to create a direct debit entry<ul>Picking slips can be broken into picking areas, customers into delivery zones and processing priorities allocated to orders<ul>Allow Bill of Materials receipts to be edited independently as kits"
+            }
+        ]
+    },
+    {
+        "id": "POINT_OF_SALE",
+        "name": "Point of Sale",
+        "product": "SALES_DEBTORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Better back-office accounting with Triumph's Point of Sale Software"
+            },
+            {
+                "type": "subtitle",
+                "text": "Point of Sale"
+            },
+            {
+                "type": "description",
+                "text": "Your business may have an efficient Point of Sale system, but do you find you are struggling with the volume of invoices that go through your back-office systems, or problems with the ability to process simple reports? Most Accounting Systems only cater for monthly reports, with limited functionality to produce customisable information.<br> <br>Accounting systems for retail operations nowadays are far more than just point of sale systems. A business integrated retail accounting software system such as Triumph ERP provides a suite of tools designed to make total retail operations more efficient, easier to manage, and more profitable. Triumph Point of Sale offers the availability of weekly profit and loss reports. Before using Triumph, this would have meant manual complex spreadsheets to get this information.<br> <br>Triumph Point Of Sale can run on premise or on a virtual server in the cloud. You can now have your sales people out on the road, in the back warehouse, or out from behind the desk and on the selling, floor serving customers, while being able to take orders and place sales using an iPad, Android or Windows tablet. With the unprecedented ability to generate immediate orders in real-time whilst being fully integrated with the Back Office.<br> <br>Today, your customers demand the convenience of a variety of payment options, real-time information about product availability and internet shopping to name but a few. Conversely, a truly powerful retail software is your competitive edge in business. Triumph software will allow you to identify selling trends, profile customer purchases, track real time sales performance of any stock item or personnel and even automate reordering while still providing the ease of use Triumph is renowned for.<br> <br>Knowledge is power and the latest generation Triumph ERP - Point of Sale it will give you up-to-the-minute information and reports on all aspects of your business with full integration with the Back-Office software. Fully customisable screens, report, and dockets. Create purchase orders from customer back orders, link to multiple stores, reserve and transfer stock between stores and so much more.<br> <br>With increased capabilities in integrated retail accounting software systems, there is a need to make sure that the software is still easy to use. In Triumph you will find easy to set up wizards, help screens, and simplified touch-screen interfaces making sure that increased functionality doesn't lose its impact by becoming overwhelming. Whist still providing comprehensive integrated back of house management reporting and accounting that is critical to the success of businesses and their ability to be more efficient and profitable."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "A Point of Sale system that is easy to learn and fast to operate"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Fully customisable functionality screens, reports and dockets.<ul>Fast touchscreen design.<ul>Buttons can have different size, colour, text, image and function.<ul>Different departments can have different panels/screens.<ul><Different layouts and designs for cash and account customers.<ul>Custom fields for recording profile information allowing targeted marketing.<ul>Custom profile information collection."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "A system that offers comprehensive functionality"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Comprehensive sales reporting.<ul>Manage laybys, orders (including partial supply), quotes, gift vouchers and receipts.<ul>Park and retrieve a sale.<ul>Damaged goods return.<ul>Optionally email a transaction copy.<ul>Detailed stock and customer enquiry functions, including past purchases.<ul>Create purchase orders from customer back orders.<ul>Raise a purchase request for customers back orders.<ul>End of day and end of shift banking functions.<ul>Barcode scanning.<ul>EFTPOS, and Mobile Order Taking."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "That is designed to link multiple stores"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Request inter-store transfers, or warehouse direct delivery.<ul>Detail top selling items by flexible time periods.<ul>Identify items sold by location and personnel."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "With high level of security"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Multi-level security with supervisor override.<ul>Buttons also have different security access.<ul>Hidden cost."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Offering fully integrated back office"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Full back office functionality.<ul>Real time immediate postings.<ul>Cash or account customers.<ul>Comprehensive stock control.<ul>Manufacturer inventory catalogue lookup and special pricing.<ul>Customer/debtor accounts.<ul>Link to a job for event management.<ul>Sales and Purchase Ordering."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "A Point of Sale system with strong supports"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Supports most modern Point of Sale hardware, printers, cash drawers, pole displays & scanners.<ul>Scalable from 1 to 100 simultaneous users.<ul>Office or Cloud implementations.<ul>Optional add-on for Web shop integration."
+            },
+            {
+                "type": "image",
+                "text": "DISCOVER A BETTER WAY TO MANAGE THE FINANCIAL SIDE OF YOUR BUSINESS WITH TRIUMPH ERP - POINT OF SALE",
+                "url": "pos-dem.png"
+            }
+            
+        ]
+    },
+    {
+        "id": "ECOMMERCE",
+        "name": "e-Commerce",
+        "product": "SALES_DEBTORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Connecting to the world to let you do business more effectively is the easy way to triumph in e-Commerce",
+            },
+            {
+                "type": "subtitle",
+                "text": "Connecting to the world to let you do business more effectively is the easy way to triumph in e-Commerce"
+            },
+            {
+                "type": "description",
+                "text": "The internet offers today's enterprise remarkable flexibility when it comes to communicating with customers and business partners. Triumph ERP allows you to use your company database as the engine room of your business with exciting new technology that makes vital information directly accessible by your clients.<br> <br>Triumph's eCommerce module can be used on a phone or tablet, just as easily as on a desktop computer. The eCommerce application automatically responds to the type of device the customer is using. So on a phone, it will work similar to other phone applications, but on a desktop computer you will see a lot more information on the screen at once.<br> <br>The eCommerce module supports business to business (B2B), web shop as well as a business to consumer (B2C) interface. This means that you can optionally sell direct to the public, with the purchaser not requiring a debtor account with you."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Triumph e-Commerce offers flexibility"
+            },
+            {
+                "type": "description",
+                "text": "Because not everyone needs or wants B2C functionality, or indeed B2B functionality, Triumph ERP e-Commerce offers a 3 pricing components option. B2C, B2B and the Customer Portal1. The price for each component is $125 ex per month, or $300 ex for all 3 components."
+            },
+            {
+                "type": "annotation",
+                "text": "1B2B component also required the Customer Portal."
+            },
+            {
+                "type": "description",
+                "text": "The Customer Portal allows account customers to enquire on their account, reprint statements and invoices, make payments and check the status of outstanding orders etc. Everything to drive the customer portal is done directly against the company database ensuring it is accurate, instantaneous and links with other Triumph modules, with no duplication or re-keying of information. The Customer Portal enables your customers to place orders, do their own quotes, look at the status of pending orders, inquire on stock availability, inquire and print details on their accounts, and even reprint their own invoices. The result is one of the best fully integrated cutting-edge web applications on the market.<br> <br>B2C requires an Online Merchant Facility with a bank, so payments can be processed. Triumph ERP software support merchant facilities based on MIGS (Mastercard Internet Gateway Services), MPGS (Mastercard Payment Gateway Services) and PayWay by Westpac. Most major banks in Australia work with one of these three services. The advantage of this, rather than using a single 3rd party payment gateway provider, is that you deal directly with the bank, thus reducing costs for payment processing."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Business to business and Business to Customer"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Individual logins with different security levels.<ul>Easy searching of products by Category, Group and Brand.<ul>Multiple images per item on the product enquiry with image zoom.<ul>Range indicator image can be replaced by an alternate image.<ul>Use a different product description and image to represent a whole range.<ul>Multiple documents per product, e.g. specifications, handling instructions etc.<ul>'Specials' landing page, with additional product highlighting, e.g. New or Clearance.<ul>Create favourites and template shopping carts.<ul>Customised pricing for individual customers.<ul>Product pages can be displayed in Large Image format, List with thumbnails or Plain list.<ul>Progress enquiry of orders placed, reviewed, picked, delivered and invoiced."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Web shop design"
+            },
+            {
+                "type": "description",
+                "text": "One of the primary requirements for customisation is to make the web shop and customer portal look and feel like a company's main web site. This is mainly achieved through the use of cascading stye sheets (CSS) to set fonts, colours, and corporate images."
+            },
+            {
+                "type": "image",
+                "url": "ecomdem.png"
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Web Site Shop Features for Colour, Size and Style"
+            },
+            {
+                "type": "image",
+                "text": "The range indicator image can be replaced by and alternate image or use a different product description and image to represent a whole range.",
+                "url": "ecomrng.png"
+            },
+            {
+                "type": "image",
+                "url": "ecompet.png"
+            },
+            {
+                "type": "image",
+                "text": "The actual name or label for “Colour” can be changed to represent other range types, such as Flavour or Style. You can also change the default label name or label for “Size” as well.",
+                "url": "ecompet2.png"
+            }
+        ]
+    },
+    {
+        "id": "CONSIGNMENT_STOCK",
+        "name": "Consignment Stock/Managed Inventory",
+        "product": "INVENTORY",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Have full control of stock managed on behalf of a third party supplier or manufacturer"
+            },
+            {
+                "type": "subtitle",
+                "text": "Consignedment Stock/Managed Inventory",
+            },
+            {
+                "type": "description",
+                "text": "Managed stock is fully integrated into the system and most stock functions, such as sales orders, picking delivery, invoicing, transfers etc, work transparently. Internally however, Consignment Stock has its own quantity on hand or stock holding and is costed independently.<br> <br>Consignment Stock functions include the ability to request and receipt stock from third party suppliers/manufacturers, revalue that stock holding, make adjustments, and the automatic allocation of consignment stock at the time of sale, including all accounting journals. As a sale is processed, priority is always given to your own stock holding over any consignment stock holding you may have.<br> <br>There is also a comprehensive report covering the Consignment Stock holding and its usage for periodic filing and reporting in accordance with third party supplier requirements.<br> <br>The system also has the ability to on consign stock to other third party agents. It does this by using the Multi-Location Stock module and keeping track of stock at these agent locations."
+            },
+            {
+                "type": "image",
+                "url": "cons-enquiry.jpg"
+            }
+        ]
+    },
+    {
+        "id": "AGENT_CONSIGNMENT_STOCK",
+        "name": "Agent Consignment Stock",
+        "product": "INVENTORY",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Manage the stock you have consigned to agents with Triumph ERP's Agent Consignment Stock"
+            },
+            {
+                "type": "subtitle",
+                "text": "Agent Consignment Stock"
+            },
+            {
+                "type": "description",
+                "text": "Putting stock on consignment out in the field with agents and representatives can be a great business strategy. But without proper systems in place to monitor and control your consignment stock, it can become more trouble than it's worth, or even worse, cost you money.<br> <br>Triumph ERP makes it easy for you and your agents to manage your consignment stock and allows you to focus on the important business aspects, like sales.<br> <br>In the back-end, the consignment stock for each agent is managed in a separate stock location. On the front-end agents can see and work directly with their consigned stock. They can inquire, request stock, receipt stock, report sales and forecast sales. The agents are literally managing their stock in your system for you.<br> <br>It allows you to know precisely what stock you have with what agents and what the value of this stock is. It also allows your agents to:"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Request consignment stock<ul>Receive stock in on consignment<ul>Report sales of consignment stock<ul>Forecast monthly sales figures"
+            },
+            {
+                "type": "description",
+                "text": "This is all done through a clean, easy to use, web interface that is directly connected to Triumph; empowering your agents to be more involved and directly connected to your company. Each agent has their own stock listing that they can easily filter by supplier, product group or partial description.<br> <br>When a request is submitted, an internal stock transfer request is raised in Triumph ERP, and immediately emailed to the warehouse for action. The warehouse can then pick these goods and ship them back to the agent who receipts them in when they arrive, tracking the stock at all points. Internally in Triumph, stock is automatically moved from being warehouse goods, to goods in transit, to being goods on consignment with the agent. With the additional Consignment Stock process, if goods are not available at the warehouse, the system can automatically raise a consignment stock request from your supplier to be directly shipped to the agent. This makes the whole process far easier to manage and control.<br> <br>On a regular basis, the agents use another web screen to record their sales of consignment stock. Again, this information flows electronically into Triumph ERP and ultimately becomes an invoice that is sent back to the agent.<br> <br>For companies that have field agents that work with consignment stock, there is finally a system that will control and manage all different aspects of this in a single, fully integrated, easy to use way. That's Triumph."
+            },
+            {
+                "type": "image",
+                "url": "agentstock.jpg"
+            }
+        ]
+    }
+    {
+        "id": "SPECIAL_PRICING",
+        "name": "Special Pricing",
+        "product": "INVENTORY",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Calculate and record discounts and promotions with Triumph ERP Special Pricing Module"
+            },
+            {
+                "type": "subtitle",
+                "text": "Special Pricing Module"
+            },
+            {
+                "type": "description",
+                "text": "In highly competitive industries, it's important that you keep your customers happy. A lack of flexibility to customise pricing may result in customers walking out the door. While most software solutions do allow you to offer an alternative price from a list price or a discount on the full price, they often leave little room to tailor-make prices for customers. Triumph ERP's Special Pricing module gives you the ability to negotiating specials prices with your best customers, as well as create short-term promotions.<br> <br>To supplement the six levels of pricing in the Triumph ERP Inventory module, The Special Pricing module allows you to factor in an unlimited number of pricing combinations. You can create special prices for one customer, all customers, or a group of customers, and can relate to one stock item, all stock items, or a group of stock items. Time-based promotions are easy to set-up, and can last for a day, a week, a month or indefinitely. The normal customer discount can be controlled on each special price, and based on either the special price or the normal stock price."
+            },
+            {
+                "type": "subtitle2",
+                "text": "Calculating Discounts"
+            },
+            {
+                "type": "description",
+                "text": "There are five different ways you can offer a discount in the Special Pricing module. They are:"
+            },
+            {
+                "type": "list",
+                "text": "<ol>Set a Price - gives you the ability to set a customised price for a customer or price match a competitor.<ol>Offer a new price from the price list - gives you the ability to offer a better price from the six levels of pricing often reversed for larger clients.<ol>Discount by percentage - gives you the ability to offer a discount based on percentage. This is often the best option as it works on margin, and system will continue to offer the marked percentage even if there are changes to its price or costs.<ol>Quantity break - give you the ability to offer discounts based on the size of the purchases. For example, if a customer purchases 100 items they will receive a 10% discount. If they buy 200 items they will receive a 20% discount.<ol>Cost Plus - gives you the ability to offer a cost-plus discount, often reserved and used by employees."
+            },
+            {
+                "type": "image",
+                "url": "sp-dem.png"
+            }
+        ]
+    },
+    {
+        "id": "MANUFACTURER_CATALOG",
+        "name": "Manufacturer Catalog",
+        "product": "INVENTORY",
+        "layout": [
+            {
+                "type": "title",
+                "text": "The easy way to work with thousands of different manufacturer catalogue parts is with Triumph ERP."
+            },
+            {
+                "type": "subtitle",
+                "text": "Manufacturer Catalogue"
+            },
+            {
+                "type": "description",
+                "text": "Are manufacturers data sets cluttering up your inventory system? Does it take longer than it should to find and process stock items? Triumph ERP's Manufacturers Catalogue is the easiest way to work with tens of thousands or even hundreds of thousands of different stock items without killing your system.<br> <br>Triumph ERP's Manufacturers Catalogue Module sits alongside the Inventory Module as a storage system for stock items available by chosen manufacturers. Manufacturers Catalogue works by informing the system when a product is available by a manufacturer when it doesn't already exist in your inventory.<br> <br>In some cases, there might be multiple alternative items available. Once you have chosen the best matched item, a part number will be automatically created in Triumph ERP. You will then be able to use the part number to continue with the purchase, sale, or required function, in any Triumph ERP module."
+            },
+            {
+                "type": "subtitle2",
+                "text": "1. Prevent System Congestion"
+            },
+            {
+                "type": "description",
+                "text": "Manufacturers catalogue frees up space by storing stock items in a separate module. Another way it keeps your inventory clean is by automatically deleting the created part number once you have finished using it. The system will know the part number was created in Manufactures Catalogue, allowing you to set a flag for its immediate removal if it is an item you are unlikely to repurchase in the future."
+            },
+            {
+                "type": "subtitle2",
+                "text": "2. Stores and Updates"
+            },
+            {
+                "type": "description",
+                "text": "Manufacturers Catalogue allows for datasets from manufactures to be imported into Triumph ERP. These datasets usually contain all the available products by the manufacturer and their current pricing. If prices have changed, Triumph ERP will register this and automatically update the pricing. This prevents you from accidentally selling items at a loss."
+            },
+            {
+                "type": "subtitle2",
+                "text": "3. Find equivalent items"
+            },
+            {
+                "type": "description",
+                "text": "Manufactures catalogue can be used by businesses who manufacture and sell their own products. If a buyer requests an item and has the original part number, the business can cross reference the item in Manufactures Catalogue to see if they sell an alternative. This helps to speed up the searching process and increase the reliability of matching items."
+            },
+            {
+                "type": "list",
+                "text": "<ul>Store hundreds of thousands of parts without clogging up your day to day inventory.<ul>Automatically create parts on the fly from the catalogue.<ul>Just key in the catalogue part number at the sales or purchasing screen.<ul>The inventory part will be created based on a template item.<ul>Provides optional warnings to keep you in control.<ul>Inventory items automatically created from the catalogue will drop off when no longer required.<ul>Handles the same part number from different manufacturers.<ul>Offering a selection of manufacturers when this happens.<ul>Flexible mapping of catalogue prices to inventory prices.<ul>As the catalogue is updated so too are the prices on existing stock items.<ul>Search and work with manufacturer part number or your own unique part number.<ul>Filter by manufacturer, with unlimited number of manufacturers.<ul>Superseded parts chain is handled in the catalogue."
+            },
+            {
+                "type": "image",
+                "text": "Update and add new catalogues by means of a simple import process - fast and easy.",
+                "url": "manufacturer_cat.png"
+            }
+        ]
+    },
+    {
+        "id": "STOCK_TRANSFERS",
+        "name": "Stock Transfers",
+        "product": "INVENTORY",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Hold stock at different physical locations, and easily transfer that stock when and where it's needed"
+            },
+            {
+                "type": "subtitle",
+                "text": "Stock Transfers"
+            },
+            {
+                "type": "description",
+                "text": "Stock transfers can be between two stores or between a warehouse and a store.<br> <br>Stock Transfer Requests can come from Inventory Reorder Reports, Sales Orders, Point of Sale Orders, and manual Stock Transfers. Example; you’re creating a point of sales order for a customer for furniture you don't have on the floor. From the enquiry, you can see the warehouse has plenty in stock. All you need to do is tell the system that you want the stock transferred from the warehouse. You can even request that the warehouse deliver direct to the customer."
+            },
+            {
+                "type": "image",
+                "text": "Easily automate the transfer of stock between different locations.",
+                "url": "st-diagram.png"
+            },
+            {
+                "type": "description", 
+                "text": "When goods are shipped from the warehouse they can be transferred automatically to the store or the store can have their own stock receipt confirmation process."
+            },
+            {
+                "type": "image",
+                "text": "For each store or warehouse see what's coming in, what's going out and what's in transit.",
+                "url": "st-enquiry.png"
+            }
+        ]
+    },
+    {
+        "id": "MULTI_LOCATION_STOCK",
+        "name": "Multi Location Stock",
+        "product": "INVENTORY",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Selling or manufacturing stock from multiple locations or stores with ease with Triumph ERP's Multi Location Stock"
+            },
+            {
+                "type": "subtitle",
+                "text": "Multi Location Stock"
+            },
+            {
+                "type": "description",
+                "text": "Each location or store can have it's own items, quantity, costs and prices, or prices can be synchronized across locations, with each location able to do it's own stock take.<br> <br>Stock enquiries, profit and loss reports, sales reports and other inventory reports can be consolidated or reported by location. Bank deposits can be produced location by location, updating one or multiple bank accounts.<br> <br>Stock can easily be transferred between locations, with even greater control given through the Stock Transfers module."
+            },
+            {
+                "type": "image",
+                "text": "Maintaining and inquiring on the different locations is easy and all done through the one screen.",
+                "url": "mloc-dem.png"
+            }
+        ]
+    },
+    {
+        "id": "BILL_OF_MATERIALS",
+        "name": "Bill of Materials",
+        "product": "INVENTORY",
+        "layout": [
+            {
+                
+                "type": "title",
+                "text": "The easy way to integrate the management of assembling stock components into more complex items or finished good"
+            },
+            {
+                "type": "subtitle",
+                "text": "Bill of Materials"
+            },
+            {
+                "type": "description",  
+                "text": "The Bill of Materials module is dependent on and fully integrated with the Inventory module to allow you to keep control over components for manufacturing. With Triumph's Bill of Materials, a single bill can have any number of components, which may be a stock item, another bill of materials, or a labour component.<br> <br>The cost of the bill is dynamically calculated whenever an assemble or disassemble function, or an inquiry is carried out. A bill of material is easy to define, enter and maintain and any number of different items may be simultaneously assembled or disassembled. Whenever a bill of materials is requisitioned to a job, the system can optionally break down the bill into each component as it is requisitioned to the job. All entries are automatically reflected in the Inventory module and a transaction audit report can be produced showing all assemblies and disassembles for the period."
+            },
+            {
+                "type": "image",
+                "text": "A bill may have any number of components",
+                "url": "BOM-dem.png"
+            }
+        ]
+    },
+    {
+        "id": "INVENTORY_SCANNING",
+        "name": "Inventory Scanning",
+        "product": "INVENTORY",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Inventory Scanning is designed to work with state-of-the-art handheld terminal scanners, either through WiFi or over the mobile network"
+            },
+            {
+                "type": "subtitle",
+                "text": "Inventory Scanning"
+            },
+            {
+                "type": "description",
+                "text": "Using smart technologies makes you more efficient and reduces customer service issues and errors. The big companies like Woolworth's and Bunnings and other have understood this for a long time, and have embraced these new technologies. This same technology is now available at an affordable price to small businesses.<br> <br>Inventory Scanning is a web application that is directly connected to your Triumph back-end database. This means that it works in real time and sees and processes Inventory in real time<br> <br>The major functions for inventory scanning are Stock Enquiry, Stock Taking, Goods Receipting, Stock Transfers and Stock Requisitions."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Stock Enquiry"
+            },
+            {
+                "type": "image",
+                "url": "scannerdouble.png"
+            }, 
+            {
+                "type": "description",
+                "text": "Scan a product barcode to display key information about an item, including the bin locations, quantity available, quantity expected in, outstanding sales orders, and product image. You can also edit the bin and bulk bin locations, as well as add new barcodes."
+            },
+            {
+                "type": "image",
+                "url": "scannerone.png"
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Stocktaking"
+            },
+            {
+                "type": "description",
+                "text": "Remove all the hassle and errors with paper-based stock takes. Simply use the scanner to go down the shelves and scan the products that need to be counted. You can then either scan individual products or manually enter the quantity of the scanned product. Scanning an “outer” barcode will automatically count the box quantity inside.<br> <br>The scanner also supports multiple “count points”, where the same stock items is counted at different points/places within the one warehouse or complex."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Goods Receipting"
+            },
+            {
+                "type": "description",
+                "text": "What could be simpler than walking up to a pallet of delivered goods and scanning them in against your purchase orders1. Scanned items are confirmed, matched against purchase orders and saved in Inventory ready to be sold.<br> <br>If an item is on more than one purchase order, a list is presented for you to choose one. It will then roll onto subsequent purchase orders if there are more items delivered than was required on the first purchase order.<br> <br>If an item is not on any purchase orders, or it's not in inventory, it will be rejected with an audible warning. If an item is over supplied, an audible warning will also be heard, and a choice will be given whether to accept the over quantity or not.<br> <br>Once all the items have been scanned, you can see a summary on the screen before accepting the results.<br> <br>Simple, quick and accurate."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Stock Transfers"
+            },
+            {
+                "type": "description",
+                "text": "This is a great way of keeping track, or replenishing stock, in mobile vans. Each van is its own mini store. When the van comes into the main warehouse, the store-man can simply scan the required items, then book them out to the relevant van.<br> <br>The items in the van are then tracked and recorded when sold or used. This could be done using our Job Mobile application, which is designed to run on mobile phones, or through any of our other applications that sell or use stock, e.g. Mobile Point of Sale."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Stock Requisitions"
+            },
+            {
+                "type": "description",
+                "text": "In manufacturing environments recording what stock is used as part of the manufacturing process is essential. Having an easy and efficient way of capturing this information is key to doing this successfully.<br> <br>This function allows you to scan any number of products, optionally entering a quantity, then committing them to a job or general expense code.<br> <br>In addition to these major functions, you can use the scanner at any time to enquire on a stock item. Scanned items display the image for confirmation, which you can zoom into, it also displays various quantities, and allows you to see a list of outstanding sales orders."
+            },
+            {
+                "type": "subtitle",
+                "text": "Inventory Scanning"
+            },
+            {
+                "type": "description",
+                "text": "Inventory Scanning software is available from $30.00 ex GST per month per scanner. Our fully functional pistol grip, touch screen scanners are available to purchase for $1,490.00. Inventory Scanning is included at no additional cost with Paperless Picking."
+            }
+        ]
+    },
+    {
+        "id": "MULTI_DIVISION",
+        "name": "Multi Division",
+        "product": "INVENTORY",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Operate multiple company divisions or branches with your reporting consolidated in one easy location with Triumph ERP's Multi Division module"
+            },
+            {
+                "type": "subtitle",
+                "text": "Multi Division"
+            },
+            {
+                "type": "description",
+                "text": "Each division can have its own chart of accounts or charts can be synchronised, and from a security perspective reporting and access can be locked down to a single division. Transactions posted between divisions automatically generate an inter-division entry into individual loan accounts, thus always ensuring accurate accounts that balance within each division.<br> <br>Accounts such as debtors, creditors, jobs, assets and bank accounts can be tied to a division or nominated as corporate accounts. Corporate bank accounts would be reconciled by head office with deposits made by each division. Inventory is held at the division level, with the additional Stock Transfer Module providing full control over internal orders and stock movements.<br> <br>Based on the ABN for each division, business activity statements can be produced for a single division or a group of divisions. It couldn't be easier."
+            },
+            {
+                "type": "image",
+                "url": "md-report.gif"
+            }
+        ]
+
+    },
+    {
+        "id": "JOB_COSTING",
+        "name": "Job Costing",
+        "product": "JOB_COSTING-QUOTING",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Know precisely what every component of every job, product or service contributes to your bottom line with Triumph ERP Software."
+            },
+            {
+                "type": "subtitle",
+                "text": "Job Costing"
+            },
+            {
+                "type": "description",
+                "text": "The Triumph Job Costing and Project module provides you with accurate cost information at your fingertips. You are more able to control costs recorded against jobs and service functions within your business.<br> <br>Service businesses, where income is derived from time-based fees, find Triumph's Costing module an invaluable tool to estimate, charge-out and bill time and material costs raised by a particular job or client."
+            },
+            {
+                "type": "image",
+                "text": "Triumph's Costing module provides up to the minute information on units and amounts charged to a job.",
+                "url": "jobcostfigure.png"
+            },
+            {
+                "type": "description",
+                "text": "An organisation which manufactures unique items can assess the exact costs of all the various components used in producing a particular product. The ability to detail employee time and component costs helps improve productivity and procurement.<br> <br>In large and multi-departmental organisations Triumph's Costing module can be used to provide internal cost analysis of departments, divisions and task groups. Management's assessment of the contribution that various cost centres make to profitability will be accurate. They will be better placed to allocate resources where and when they are most needed."
+            },
+            {
+                "type": "image",
+                "text": "Jobs may be optionally broken down into cost centres on which flexible charge our rates can be applied.",
+                "url": "jobcostmaintenance.png"
+            },
+            {
+                "type": "list",
+                "text": "The Triumph Job Costing Manager has features that cater for any costing or pricing system in any manufacturing, sub-contracting or service delivery environment.<br> <br><ul>Flexible setup to fit the way your business operates.<ul>Seamless integration with Inventory, Bill of Materials, Creditors, Purchasing, Purchase Requisitions, Point of Sale, Debtors and General Ledger.<ul>Ability to define a hierarchy of cost centres within jobs, jobs within parent jobs, and job groupings at top level.<ul>Job Quoting creates jobs, budgets, purchase orders/requisitions and inventory requirement lists.<ul>Use the Time Clock module in workshop environments for fast and accurate time recording, and use the labour times to generate your payroll.<ul>Job worksheets, customer quotes, supplier requests for quotes, and customer invoices.<ul>Full Work in Progress (WIP) recording and reporting, allocated down to transaction level.<ul>Capture of expenses for labour, materials, subcontractors, purchases and overheads.<ul>Optional warnings in job budgets when expenditure is too high.<ul>Optionally record income in advance.<ul>Set “cost plus” margin rules on each job centre or cost centre.<ul>View comprehensive statistics on the job including WIP and purchase commitments.<ul>Jobs can run across financial years, or even as a perpetual job like a client.<ul>Jobs for internal purposes may be created and managed in a similar way.<ul>Wide range of reports such as Costing Comparison Reports, Work in Progress Reports, Invoice Worksheet Reports.<br> <br>Triumph’s Costing module integrates with other Triumph modules, including Purchase Ordering, Inventory and Bill of Materials, it can be used as a stand-alone module in single or multi-user formats. And with equal success in small and large organisations."
+            }
+            ]
+    },
+    {
+        "id": "JOB_QUOTING",
+        "name": "Job Quoting",
+        "product": "JOB_COSTING-QUOTING",
+        "layout": [
+            {
+                "type": "title",
+                "text": "The easy way to start a quote, transform the quote into a job, and keep track of all the material, labour and sub-contractor costs and charges."
+            },
+            {
+                "type": "subtitle",
+                "text": "Job Quoting"
+            },
+            {
+                "type": "description",
+                "text": "This module allows detailed quotes to be prepared from an existing recipe or template, or from scratch as a unique quote. These quotes are designed to work in with the Job Costing module and allow you to itemise all the internal and external materials, internal and external labour, and any overheads that are required to complete the job."
+            },
+            {
+                "type": "image",
+                "text": "Job Quoting works together with the Job Costing module.",
+                "url": "jq-diagram.png"
+            },
+            {
+                "type": "description",
+                "text": "When the quote has been accepted by the customer it is converted to a real job against which all the actual expenses are recorded. As the quote is converted any material or labour that must be sourced from suppliers is automatically purchased via the Purchase Requisitions module, and any internal materials are reserved for the job. This not only saves hours of work it is also very accurate and timely."
+            },
+            {
+                "type": "image",
+                "text": "Once calculated the total or margin for the quote can always be changed.",
+                "url": "jq-entry-total"
+            },
+            {
+                "type": "description",
+                "text": "A special Job Requisition entry screen enables internal stocked items, allocated to the quote and reserved for the job, to be easily requisitioned to the job. At any time you can drill down on a stock item and inquire on what quantities are still required by which jobs.<br> <br>Printed forms from this module include a Customer Quote, Request for Supplier Quotation, Production Report and Job Worksheet.<br> <br>Once the quoted job is completed it can be billed as per the quote, or it can reflect the actual work on the job. In either case comparisons are then available to look at the profitability of your jobs and to compare where any variances may lie between your quote and actual work."
+            }
+        ]
+    },
+    {
+        "id": "TIME_CLOCK",
+        "name": "Time Clock",
+        "product": "JOB_COSTING-QUOTING",
+        "layout": [
+            {
+                "type": "title",
+                "text": "The fastest, simplest and most accurate way of recording labour time against jobs in a workshop environment."
+            },
+            {
+                "type": "subtitle",
+                "text": "Time Clock"
+            },
+            {
+                "type": "description",
+                "text": "On one or more dedicated workstations employees clock on and off jobs as they work on them. If the description of the work has been predefined, i.e. with the Job Quoting module, then the type of work can also be selected from within that job. Not only does this save time it's also extremely accurate and timely.<br> <br>Once work on a job has been clocked off a labour transaction is immediately posted to the Job Costing module. Invoicing the client can occur as soon as the last employee has clocked off that job. There is no duplication or double entry of work required.<br> <br>Clocking onto a new job automatically clocks an employee off the previous one."
+            },
+            {
+                "type": "image",
+                "text": "Optimised keyboard entry makes it fast to clock on and off a job",
+                "url": "timeclock-dem.png"
+            }
+        ]
+
+    },
+    {
+        "id": "JOB_MOBILE",
+        "name": "Job Mobile",
+        "product": "JOB_COSTING-QUOTING",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Record, report, and tracking all expenses and activities for a job directly from a smartphone with Job Mobile."
+            },
+            {
+                "type": "subtitle",
+                "text": "Job Mobile"
+            },
+            {
+                "type": "description",
+                "text": "Allocate a job or part of a job to service technicians. This then appears on their phone so they know exactly where they have to go and what they have to do. As well as recording time and materials, they can also take before and after photos, get the customers' sign off and email it too them as they walk out the door.<br> <br>The Job Mobile Module allows multiple jobs to start at the same time, with the option of recording time and materials against internal administration jobs. Geo-location is also automatically recorded against all work entered."
+            },
+            {
+                "type": "list",
+                "text": "Features<br> <br><ul>Designed for the mobile sales force.<ul>Use voice-to-text to easily date entry of work description.<ul>Job times can be reviewed by a supervisor prior to posting.<ul>Record time and materials on site.<ul>Capture signatures on the go.<ul>Process credit card payments.<ul>Take a picture of any purchase receipt/ invoice and submit with the transaction.<ul>Draw stock from, and control stock in, a mobile van.<ul>Get directions, and see a map, for the job location.<ul>Geo-location recorded.<ul>See extended job details and tap the phone number to call.<ul>Email customer service reports based on the work performed."
+            },
+            {
+                "type": "image",
+                "url": "mobile1.png"
+            },
+            {
+                "type": "image",
+                "url": "mobile2.png"
+            }
+        ]
+    },
+    {
+        "id": "FOREIGN_CREDITORS",
+        "name": "Foreign Creditors",
+        "product": "PURCHASING_CREDITORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Triumph over fluctuating exchange rates and other international trading complexities with the foreign currency module."
+            },
+            {
+                "type":"subtitle",
+                "text": "Foreign Creditors"
+            },
+            {
+                "type": "description",
+                "text": "If you do business in Japanese yen, US dollars, Euros, or any other currency, Triumph's ERP Foreign Currency modules lift trade barriers and make it easy to buy or sell anywhere in the world.<br> <br>You can create an unlimited number of foreign currencies, including high value exchange rate currencies and link your transactions with your Debtors module, accounting in your home currency and billing in your customer's currency automatically.<br> <br>The system gives you the choice of viewing and reporting accounts and transactions in either the base currency or the originating foreign currency.<br> <br>You can set exchange rates daily to an accuracy of four decimal places. The gain or loss from foreign exchange may be taken up immediately or when payment is finally made or received.<br> <br>Gains or losses are recorded in the General Ledger in a nominated account. Unrealized gains and losses may be reported and summarised by currency type, and realised gains and losses may be viewed and reported on each foreign currency transaction."
+            },
+            {
+                "type": "image",
+                "text": "Foreign currency and rates can be modified at ease to reflect the current needs of the company with Triumph ERP Software.",
+                "url": "fc-maint.png"
+            }
+        ]
+    },
+    {
+        "id": "PURCHASE_ORDERING",
+        "name": "Purchase Ordering",
+        "product": "PURCHASING_CREDITORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Manage your purchase ordering and inventory costs with easy thanks to Triumph ERP"
+            },
+            {
+                "type": "subtitle",
+                "text": "Purchase Ordering"
+            },
+            {
+                "type": "description",
+                "text": "One of the best things about Triumph's ERP Purchase Ordering module, is its ability to integrate with other Triumph modules. When your inventory reaches a pre-determined re-order level, or when you receive an order for an out-of-stock item, or when a job quote is won, a purchase order can be automatically raised. Purchase orders from overseas suppliers can be raised in a foreign currency with landed costs applied.<br> <br>When goods are received you can automatically compare outstanding customer orders with the goods received. You can reconcile purchase orders with creditors' invoices - checking quantities and prices. You can even check a complete history of your supplier's pricing."
+            },
+            {
+                "type": "image",
+                "text": "Multiple suppliers per product allows a detailed history or purchases.",
+                "url": "purchaseordering.png"
+            }
+        ]
+
+    },
+    {
+        "id": "PURCHASE_REQUISITIONS",
+        "name": "Purchase Requisitions",
+        "product": "PURCHASING_CREDITORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "The easy way to marshal goods and services that must be purchased"
+            },
+            {
+                "type": "subtitle",
+                "text": "Purchase Requisitions"
+            },
+            {
+                "type": "description",
+                "text": "These requests are collected in a pool, which can easily be reviewed and edited, before the real purchase orders are created and send to their respective suppliers. When goods are receipted on these purchase orders, not only are you notified at that point who the goods are for, but the system also updates the originating transaction to reserve these goods for this customer.<br> <br>No need to spend hours keying in lengthy purchase orders, just create them at the push of a button. Think how much time and money that will save.<br> <br>Often referred to as back-to-back ordering this module enhances just in time ordering, improves customer service and makes you more efficient.<br> <br>Requests for purchase can come from five different modules, including Inventory Reorder Reports, Sales Orders, Point of Sale Orders, Job Quotes (when converted to an order), and Internal Stock Transfers. For example, you’re creating a sales order for a customer over the phone, one the items they want is not in stock, all you need to do to order it for them is tick the box on the line, you can then move onto the next customer knowing confidently that the system will handle the rest."
+            },
+            {
+                "type": "image",
+                "text": "360 degree processing cycle makes purchasing a breeze.",
+                "url": "purchasereq.png"
+            }
+        ]
+    },
+    {
+        "id": "ADVANCED_PURCHASING",
+        "name": "Advanced Purchasing",
+        "product": "PURCHASING_CREDITORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Create a secure electronic payments file to be sent to your back-end for efficient processing"
+            },
+            {
+                "type": "subtitle",
+                "text": "Advanced Purchasing"
+            },
+            {
+                "type": "description",
+                "text": "Advanced Purchasing offers users the capability to upgrade the purchase ordering functionality with a variety of options to increase efficiency and internal control. Users can also experience significant time savings with inventory management, job costing and sales back-ordering processes thanks to the Advanced Purchasing module."
+            },
+            {
+                "type": "list",
+                "text": "Benefits include:<br> <br><ul>Use incoterms on Purchase Orders.<ul>Scanned receipted goods and match to multiple purchase orders.<ul>Scan out shipper barcodes or inner barcodes.<ul>Handles exceptions, such as over supply.<ul>Work orders are a new type of purchase order.<ul>They have their own document.<ul>Orders may be classified as 'unapproved'.<ul>Automated landed costs.<ul> No operator intervention.<ul>Markup stock as it is received into the inventory.<ul> Based on quantity, volume, area or weight.<ul>Each stock item can have a different set of markups.<ul>Raise internal requisitions.<ul>Hold or submit requests when ready.<ul>Send requests for supplier quotations.<ul>Independently convert to one or more purchase orders.<ul>User defined columns flow from Purchase Requisition to Purchase Order.<ul>Extended descriptions on purchase request and purchase order lines.<ul>Up to 512 characters.<ul>Advanced purchasing management.<ul>Competitive advantage through the application of knowledge-based cost management."
+            }
+            
+        ]
+    },
+    {
+        "id": "WEB_REQUISITIONS",
+        "name": "Web Requisitions",
+        "product": "PURCHASING_CREDITORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Streamline purchasing via the web with Triumph ERP Web Requisitions"
+            },
+            {
+                "type": "subtitle",
+                "text": "Web Requisitions"
+            },
+            {
+                "type": "description",
+                "text": "Triumph's Web Requisitions software module allows internal and external contacts anywhere, any time to create purchase requests via a web browser. These requests can then be reviewed and authorised from a central location, thus keeping total control over the procurement cycle.<br> <br>Perfect for job-related purchases, Web Requisitions can also be used for stock and general expenses, as well as for disbursement lines where external costs such as freight and insurance can be captured and apportioned. Triumph ERP Web Requisitions will increase the accountability and efficiency of your purchasing department.<br> <br>Once a request is raised it can be submitted to head office for approval. An authorised person then needs to electronically approve the purchase request, which converts it to a real purchase order and optionally emails it to the suppliers. From there, goods are receipted and invoices are applied to purchase orders in the normal way.<br> <br>One powerful feature of Web Requisitions is that it allows an existing purchase order to be completely revised and re-submitted for approval. New lines can be inserted or appended, existing lines can be changed or even deleted, as long as they have not been receipted."
+            },
+            {
+                "type": "image",
+                "url": "web-rec.png"
+            }
+        ]
+    }
+    {
+        "id": "REQUEST_FOR_CREDIT",
+        "name": "Supplier Request for Credit",
+        "product": "PURCHASING_CREDITORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Supplier Request for Credit is a new half module that allows you to keep track of supplier credit requests."
+            },
+            {
+                "type": "subtitle",
+                "text": "Supplier Request for Credit"
+            },
+            {
+                "type": "description",
+                "text": "This module allows you to keep track of supplier credit requests. Staff can raise Pending Requests, which can then be processed into Requests for Credit, or alternatively requests for credits can be entered directly. Credit Responses, when received from the supplier, can then be entered against the Creditor Requests. The module allows staff at either Point Of Sale or when raising a Debtor Credit note, to flag that they would like to raise a request for credit. These requests are then reviewed centrally.<br> <br>The request for credit officer can then easily match the requests to supplier invoices and send documentation requesting a credit for the goods from the supplier.<br> <br>When a credit note is raised, it is matched to the request for credit. If the credit is refused, then Triumph has options to either return the item to your stock or write it off.<br> <br>Anything outstanding can be easily reported on."
+            },
+            {
+                "type": "image",
+                "url": "credit-dem.png"
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Request for Credit features include"
+            },
+            {
+                "type": "description",
+                "text": "Raising a pending request for credit from Point Of Sale Return and Debtor Credit Notes.<ul>Combine multiple pending requests into individual supplier Requests For Credit.<ul>Supplier invoice look up will return invoice number, date and price.<ul>Keep track of what quantity has already been returned on an invoice.<ul>Enter a return reason for each line.<ul>Email supplier for a return authorisation number (RMA).<ul>Return to stock or write off stock, if the credit is not provided by the supplier.<ul>Deduct other charges such as freight or restocking fees.<ul>Keep track and preview what credits have been provided so far on an individual request.<ul>An request for credit officer can raise request for credits without staff having formally raised an request for credit officer requisition. This is useful when faulty stock arrives or when testing."
+            },
+            {
+                "type": "subtitle1-2",
+                "text": "Request for Credit Work Flow"
+            },
+            {
+                "type": "image",
+                "url": "creditworkflow.png"
+            }
+            {
+                "type": "description",
+                "text": "A credit note is considered a negative invoice. Credit notes are a way to amend the details of a purchase order invoice after it has been authorised. In the same way that payments are applied to close out an invoice balance, refunds are issued to close out a credit note balance. <br> <br>A credit note can be applied to a purchase order with Triumph's Supplier Request for Credit module.<br> <br><ul>For individual items - when a unit price has been overcharged<ul>For part of a shipment - when part of a shipment has either been short-shipped, or damaged goods were received<ul>For a whole shipment - when an entire shipment was received incorrectly, or it was shipped out incorrectly and you need to cancel it entirely.<ul>For a discount applied to an order after the invoice has been authorised.<ul>You can also issue credit notes that are not associated with any particular purchase.<ul>Process multiple credit notes for the same purchase order"
+            },
+            {
+                "type": "subtitle1-3",
+                "text": "This module will allow you to:"
+            },
+            {
+                "type": "list",
+                "text": "<ul>print a list of supplier debits<ul>reverse an existing purchase<ul>manually create a debit for a service, professional or miscellaneous purchase<ul>manually create a debit for an item purchase<ul>delete or reverse a supplier debit<ul>print or email a supplier debit<ul>reverse a payment that isn't a supplier invoice. "
+            }
+
+        ]
+
+    },
+    {
+        "id": "FOREIGN_BANKING",
+        "name": "Foreign Banking",
+        "product": "PURCHASING_CREDITORS",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Triumph over fluctuating exchange rates and other international trading complexities with the foreign currency modules"    
+            },
+            {
+                "type": "subtitle",
+                "text": "Foregin Banking"
+            },
+            {
+                "type": "description",
+                "text": "If you do business in Japanese yen, US dollars, Euros, or any other currency, Triumph ERP's Foreign Currency modules1 lift trade barriers and make it easy to buy or sell anywhere in the world.<br> <br>You can create an unlimited number of foreign currencies, including high value exchange rate currencies and link your transactions with your Debtors module, accounting in your home currency and billing in your customer's currency automatically.<br> <br>The system gives you the choice of viewing and reporting accounts and transactions in either the base currency or the originating foreign currency.<br> <br>You can set exchange rates daily to an accuracy of four decimal places. The gain or loss from foreign exchange may be taken up immediately or when payment is finally made or received.<br> <br>Gains or losses are recorded in the General Ledger in a nominated account. Unrealized gains and losses may be reported and summarised by currency type, and realised gains and losses may be viewed and reported on each foreign currency transaction.<br> <br>If you purchase goods from overseas on a regular basis, then having a Foreign Currency Bank Account will provide you with increased benefits of streamlining payments, reducing costs, while offering better protection against fluctuating exchange rates.<br> <br>Triumph's Foreign Banking module is the perfect companion to allow you to easily control and monitor these bank accounts. Foreign Banking enables you to maintain, reconcile and revalue multiple bank accounts in any foreign currency.<br> <br>With Triumph's Foreign Banking Module, you can see and reconcile transactions on the screen exactly as you see them on your bank statement. Match statement lines from your bank account with exact foreign currency transaction amounts you've created in Triumph and just click OK to reconcile.<br> <br>It's effortless to keep your accounts accurate and up to date. By using Foreign Banking within Triumph ERP software, you can see your financial position more clearly, eliminate double-handling and reduce potential discrepancies."
+            },
+            {
+                "type": "list",
+                "text": "Features include:<br> <br><ul>Create and reconcile any number of foreign currency bank accounts.<ul>Use any number of foreign currencies, from Yen to Rupiah.<ul>Reconcile petty cash accounts in a foreign currency.<ul>Transfer funds between different currency bank accounts.<ul>Seamlessly integrated with all other Triumph function such as General Ledger, Foreign Debtors, Foreign Creditors.<ul>Setup GL Journals and Standing Journals based on a foreign currency.<ul>View all balances and transactions in the foreign currency or base currency.<ul>Override the exchange rate on transactions.<ul>Revalue your foreign bank accounts as and when required.<ul>Post foreign currency gains and losses to a nominated account."
+            },
+            {
+                "type": "image",
+                "text": "Foreign currency bank accounts can be set up with your desired currency and banking systems.",
+                "url": "fb-maint.png"
+            }
+
+        ]
+    },
+    {
+        "id": "BUSINESS_INTELLIGENCE",
+        "name": "Business Intelligence",
+        "product": "INFORMATION_INTELLIGENCE",
+        "layout" [
+            {
+                "type": "title",
+                "text": "Full integration to give you on-demand access to performance data across your enterprise in real-time"
+            },
+            {
+                "type": "subtitle",
+                "text": "Business Intelligence"
+            },
+            {
+                "type": "description",
+                "text": "Triumph BI, or Business Intelligence module allows you to analyse your company's data from a top down perspective. Thus, making it easier for management, sales staff, and other users, to quickly and visually see important targets and company KPIs.<br> <br>Spreadsheet style reports, graphical reports, dashboards or a combination of all can be produced. All reports and graphs start at a high level and allow you to drill down on any section, one level at a time, until ultimately you can see the raw transactions.<br> <br>Business Intelligence reports and dashboards can be run from within Triumph, or optionally over the internet on devices such as an iPad or tablet. In both cases, Triumph ERP menu security, limits users to what they can see and get access to.<br> <br>Reports in Business Intelligence can be printed, viewed in Excel, saved as an Adobe PDF documents, or emailed in any format. Reports can also be scheduled to run autonomously overnight and emailed to selected staff. In this way critical reports can be in someone's Inbox first thing in the morning. What could be easier?<br> <br>As an example, a dashboard can present month by month sales compared to last year, top 10 customer's sales and year-to-date comparison for last year, pie chart of sales by stock category, and worst performing 10 customers compared to last year. As well as being able to drill down into any of these graphs, you can select what year, quarter, month, stock category, sales person and customer to report on.<br> <br>Business analytics helps to successfully manage your company with in-depth, real-time data to help you improve decision making and understanding your company’s true profitability. This can require hours of manual number crunching but not anymore with Triumph ERP Business Intelligence software solution.<br> <br>In-depth business intelligence can lead to better business decisions and with Triumph ERP you will be able to mine your financial data with user-friendly, intuitive tools to help you review your current business performance.<br> <br>Triumph ERP business intelligence software provides quick access to top-level information and original documentation. Our reporting tools give you access to the data you need to analyse performance at the customer and product levels, see sales volumes and margins, and gain better insight into customer profitability. And our detailed product analysis reporting can help identify sales and margins by customer, and by product, to help you better understand product profitability."
+            },
+            {
+                "type": "list",
+                "text": "Benefits include:<br> <br><ul>Improved capabilities of reporting and planning around your financials and operations.<ul>Tools that are fully integrated to give you on-demand access to performance data across your enterprise.<ul>Triumph ERP Business Intelligence software provides you with dynamic, drill-down access.<ul>Tiered, permission-based views help you control access to sensitive information.<ul>Enables you to evaluate multiple data sets for comparative and associative analysis.<ul>Flexibly configure your view and preferences for the most meaningful snapshot of your costs, sales, profitability and other data.<ul>Our intuitive dashboard lets you chart, graph, associate and filter on key performance measures in the manner most meaningful to you.<ul>Evaluate multiple data sets for comparative and associative analysis.<ul>Powerful financial analysis tools help you see customer, supplier and product margin results.<ul>Empower your people to do their best with Business Analytics and Business Intelligence.<ul>User-defined fields mean you can track an unlimited number of cost drivers that impact your business.<ul>Flexibly configure your view and preferences for the most meaningful snapshot of your costs, sales, profitability and other data.<ul>Filter on key performance measures in the manner most meaningful to you.<ul>Business Intelligence will help you access and analyse your customer, supplier and product-level profitability so you can see exactly which elements are driving your business.<ul>Views results for a specific group of customers, suppliers or products.<ul>While comparative views enable you to analyse results from multiple customers, suppliers or products to determine the real impact of doing business with your partners, so you can see who’s helping or hurting your bottom line."
+            },
+            {
+                "type": "image",
+                "text": "Triumph ERP business intelligence tools are fully integrated to give you on-demand access to performance data across your enterprise.",
+                "url": "BI-dem.png"
+            }
+        ]
+
+    },
+    {
+        "id": "PROOF_OF_DELIVERY",
+        "name": "Proof of Delivery",
+        "product": "INFORMATION_INTELLIGENCE",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Capture a customer's signature as proof of goods being delivered or picked up with the Proof of Delivery Module"
+            },
+            {
+                "type": "subtitle",
+                "text": "Proof Of Deliverly"
+            },
+            {
+                "type": "description",
+                "text": "Capture the signature on any linked touchscreen device, i.e. iPad, iPhone, Android, and have it printed onto the transaction document. Signature capture can be set as mandatory or optional, based on nominated transactions. There is also the option of signing when the transaction is saved or later when the customer comes in.<br> <br>The Proof of Delivery Module also offers the option of displaying marketing and advertising images to your customers while the device is idle."
+            },
+            {
+                "type": "image",
+                "text": "Transaction Document",
+                "url": "pod1.png",
+            },
+            {
+                "type": "image",
+                "url": "pod2.png"
+            },
+            {
+                "type": "image",
+                "url": "pod3.png"
+            }
+        ]
+    },
+    {
+        "id": "WEB_SERVICES_API",
+        "name": "Web Services API",
+        "product": "INFORMATION_INTELLIGENCE",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Create system setups, custom integrations, and collaborative developments with external developers with Triumph ERP's Web Services API"
+            },
+            {
+                "type": "subtitle", 
+                "text": "Web Serices API"
+            },
+            {
+                "type": "description",
+                "text": "The Web Service Application Program Interface (API) module provides external access to Triumph ERP's accounting system via web services, replacing the old manual csv import. Web services allows different applications from different sources to communicate with each other without time-consuming custom coding or intimate knowledge of each other's IT systems.<br> <br>From creating contracts, debtor accounts or sales quotes, to inquiring about customer figures and prices, Web Services API allows you to achieve system actions in a fraction of the time. Web Services API is currently compatible with the Debtors Module, Inventory Module, Sales Order Entry Module, and Point of Sale Module."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "API(Web Services)"
+            },
+            {
+                "type": "description",
+                "text": "The API offers external access to the accounting system via web services. The web services are implemented using SOAP and the definition of each API call can be retrieved via it’s WSDL (Web Services Description Language).  Current list of APIs includes:"
+            },
+            {
+                "type": "list",
+                "text": "Raising sales quotes and orders.<ul>Posting debtor invoices and credit notes.<ul>Debtor account enquiry including figures and transactions.<ul>Create contacts and link to debtor accounts.<ul>Listing debtors contacts.<ul>Posting stock requisitions.<ul>Posting stock transfers between locations and divisions.<ul>System setup such as bulk imports and updates.<ul>Custom integration with in-house developed applications.<ul>Collaborative development with 3rd party applications."
+            },
+            {
+                "type": "image",
+                "url": "API2.png"
+            }
+        ]
+    },
+    {
+        "id": "ELECTRONIC_DATA_INTERCHANGE",
+        "name": "Electronic Data Interchange",
+        "product": "INFORMATION_INTELLIGENCE",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Leave paper behind and enjoy major benefits such as reduced cost, increased processing speed, reduced errors and improved relationships thanks to EDI",
+            },
+            {
+                "type": "subtitle",
+                "text": "Electronic Data Interchange"
+            },
+            {
+                "type": "description",
+                "text": "Electronic Data Interchange (EDI) is the computer-to-computer exchange of business documents in a standard electronic format between business partners. As a computer-to-computer exchange it replaces postal mail, fax and email.<br> <br>Many business documents can be exchanged using EDI, and the most common are purchase orders and invoices. At a minimum, EDI replaces the mail preparation and handling associated with traditional business communication. However, the real power of EDI is that it standardises the information communicated in business documents, which makes possible a “paperless” exchange.<br> <br>Because EDI documents must be processed by computers rather than humans, a standard format must be used so that the computer will be able to read and understand the documents. When two businesses decide to exchange EDI documents, they must agree on the specific EDI standard and a version and Triumph ERP software is right there by your side."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Without EDI, the process looks like this"
+            },
+            {
+                "type": "image",
+                "url": "noedi.png"
+            },
+            {
+                "type": "subtitle1-2",
+                "text": "The EDI process looks like this — no paper, no people involved:"   
+            },
+            {
+                "type": "image",
+                "url": "withedi.png"
+            },
+            {
+                "type": "subtitle1-3",
+                "text": "Benefits of Using Electronic Data Interchange (EDI)"
+            },
+            {
+                "type": "list",
+                "text": "Fast, streamlined business processes mean that documents can be exchanged in minutes.<ul>Improved accuracy with manual data entry errors instantly eliminated.<ul>Receive confirmation that your documents have arrived safely.<ul>Cut the cost of printing, copying, filing, storage and postage, and of repetitive labour intensive tasks, administration and disputes caused by data entry errors.<ul>Everything happens in real-time - informing and speeding up business decisions and response times.<ul>Become part of a connected trading community and can build more productive relationships with suppliers and customers alike.<ul>Improved cash flow - payment schedules are shorter and more reliable.<ul>Have the flexibility to integrate your EDI system with your back-office accounts, warehouse for greater business efficiency."
+            },
+            {
+                "type": "subtitle1-4",
+                "text": "Australian developed Triumph ERP Software works successfully with many successful Australian companies that benefit from Electronic Data Interchange.  EDI documents are in operation in many organisations, including:"
+            },
+            {
+                "type": "list",
+                "text": "Bunnings<ul>Spotless Group Holdings<ul>POS Solutions<ul>ABB<ul>PetStock<ul>Ruralco<ul>Landmark<ul>Elders"
+            },
+            {
+                "type": "description",
+                "text": "Electronic Data Interchange (EDI) is important to both large and small business. Manufacturing, healthcare, pharmaceutical, utility and construction companies are good examples of EDI clients.<br> <br>Discover how to enjoy major benefits such as reduced cost, increased processing speed, reduced errors and improved relationships with your business partners."
+            }
+        ]
+    },
+    {
+        "id": "FIXED_ASSETS",
+        "name": "Fixed Assets",
+        "product": "INFORMATION_INTELLIGENCE",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Have easy and functional accounting control over your fixed assets through Triumph ERP's Fixed Assets"
+            },
+            {
+                "type": "subtitle",
+                "text": "Fixed Assets"
+            },
+            {
+                "type": "description",
+                "text": "Maintaining an accurate register of fixed assets is vital to support your general ledger control accounts for Asset Costs, Accumulated Depreciation, Depreciation Expense, Proceeds on Sale of Assets and Profit and Loss on Sale of Assets. But with Triumph ERP software Fixed Assets module, you can do so much more."
+            },
+            {
+                "type": "image",
+                "url": "FA-Maint.png"
+            },
+            {
+                "type": "description", 
+                "text": "Using the Triumph Fixed Assets module, you can maintain an accurate record of the identity and location of each fixed asset. Furthermore, fixed assets can be broken into components; an especially useful function when components have differing depreciation methods or values.  Triumph’s Fixed Assets module provides you with a total control management system for assets that can be accounted for as components or as complete units. Components can be moved from asset to asset or broken down further into sub-components. The 'tracking' feature ensures you never lose sight of the value or the location of the asset."
+            },
+            {
+                "type": "image",
+                "url": "FA-assets.png"
+            },
+            {
+                "type": "description",
+                "text": "Maintaining an accurate register of fixed assets is vital to support your General Ledger control accounts for Asset Costs, Accumulated Depreciation, Depreciation Expense, Proceeds On Sale Of Assets and Profit and Loss On Sale Of Assets."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Some of the main features include:",
+            },
+            {
+                "type": "list",
+                "text": "<ul>Depreciation can be calculated for both accounting and taxation purposes, including straight line, diminishing value and units of production.<ul>The depreciation process is purely date based and can be run up to a nominated date as many times as required.<ul>Serial number, insurance details, finance details, supplier, quantity on hand, free format notes and more can be stored on each asset.<ul>Ten user defined fields may be optionally setup and used to store all sorts of information on each asset.<ul>Assets can be broken down into component assets, with depreciation calculated and transactions stored at the component level.<ul>Component assets can be moved from one major asset to another, e.g. an expensive car stereo can be moved to a new car.<ul>A complete transaction audit is maintained for each asset including; additions, transfers, depreciation, revaluations and disposals.<ul>Assets may also be tracked from location to location providing an audit trail of its movements.<ul>Assets may be split into separate assets or two assets may be joined to make one. E.g. a large truck could be split into the cab and trailer and one could then be disposed of.<ul>Disposal of an asset can either be in full or as a partial disposal.<ul>Stock take of assets at different locations allows accurate tracking of assets and their condition.<ul>Digitised photographic images of an asset may be stored and viewed on screen to provide instant recognition.<ul>A CPI table allows for accurate calculation and reporting of capital gains.<ul>An assets unique code or number may be changed after it has been created.<ul>A comprehensive set of reports allow assets to be grouped in five different ways and printed in seven different orders.<ul>An interfaces to other accounting systems, including Attaché, JIWA, Arrow and Exonet, allow all the General Ledger movements to be exported.<ul>Fixed Assets can run as a stand alone module or it can be integrated with the General Ledger module. It is also available in single user and multi-user configurations.<ul>Low value assets may be pooled as per the Australian Taxation Office ruling.<ul>Assets can be easily imported from a spreadsheet for the initial take-up."
+            },
+            {
+                "type": "description",
+                "text": "Triumph's Fixed Assets module can run stand alone, or it can be integrated with Triumph's General Ledger. Or, through an interface, with the General Ledger of other popular accounting software. It is also available in single user or multi-user configurations."
+            },
+            {
+                "type": "subtitle",
+                "text": "Service Recording & Alerts"
+            },
+            {
+                "type": "description",
+                "text": "A series of service/testing information, for frequencies and next service dates etc, can be maintained on an asset component for Calibration, Electrical Testing, Lift/Rigging Inspection, Pressure Testing, General Servicing, and whatever other servicing might be required. This information is then used to generate alerts and reports on what maintenance and testing action needs to be taken on what assets…"
+            },
+            {
+                "type": "image",
+                "text": "A Service Schedule report lists all the asset components that require calibration, testing or servicing. You can also store calibration certificates and other critical documents against each service/test.",
+                "url": "FA-update.png"
+            },
+            {
+                "type": "description",
+                "text": "New Feature Asset Scanning can be added on to Triumph Fixed Assests"
+            },
+            {
+                "type": "subtitle",
+                "text": "Asset Scanning"
+            },
+            {
+                "type": "description",
+                "text": "Asset Scanning is a new web based module designed to run on a PDA scanner or smart phone. It allows you to do stock take counts, record service/testing information, enquire on an asset, and change basic information. Right on your phone and out in the field, making it incredibly efficient."
+            }
+
+        ]
+    },
+    {
+        "id": "PAYROLL",
+        "name": "Payroll",
+        "product": "PAYROLL",
+        "layout": [
+            {
+                "type": "title",
+                "text": "Make payroll simple and efficient while ensuring compliance with modern awards and legislation so you can focus on what you do best"
+            },
+            {
+                "type": "subtitle",
+                "text": "Payroll"
+            },
+            {
+                "type": "description",
+                "text": "WageEasy is an independent product that is simple and efficient while ensuring compliance with modern awards and legislation. Built in Australia and designed to meet Australian unique employment conditions, Wage Easy offers total integration into Triumph ERP software. Triumph ERP's General Ledger Module integrates to easily share data with Wage Easy."
+            },
+            {
+                "type": "list",
+                "text": "<ul>WageEasy offers simple and logical design, you don't need to be a payroll expert.<ul>Save time and benefit from accurate calculations with WageEasy's built in award interpreter.<ul>Empower your workforce with employee self-service.<ul>Payroll software training and support."
+            },
+            {
+                "type": "subtitle1-1",
+                "text": "Key Functionality"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Built-in award interpretation removes the need for manual calculations and ensuring compliant award payments.<ul>Efficient HR management tools to manage and maintain important employee details.<ul>Flexible reporting to easily create reports for key business decisions.<ul>Triumph ERP software General Ledger integrates to easily share data with Wage Easy.<ul>Streamlined superannuation processing to meet your superannuation obligations."
+            },
+            {
+                "type": "subtitle1-2",
+                "text": "Enhancements"
+            },
+            {
+                "type": "description",
+                "text": "There is a variety of ways to configure your WageEasy payroll software to suit your specific needs, including:"
+            },
+            {
+                "type": "list",
+                "text": "<ul>Easy business analyser enhances your ability to analyse payroll and HR data across your business.<ul>Employee services portal to empower your employees and automate leave applications and approvals.<ul>Express super - superannuation clearing house to minimise the time you spend on preparing and paying superannuation contributions.<ul>Remote and online timesheets make it easier to track employee work hours more efficiently."
+            },
+            {
+                "type": "description",
+                "text": "Triumph ERP software integrates with WageEasy Payroll and HR. WageEasy is priced at $70.00 per active employee with a minimum initial purchase of ten employees. Additional active employees can be added when required based on a minimum purchase of five. Annual software support is 20% with a minimum $560.00."
+            }
+        ]
+    }  
+] 
