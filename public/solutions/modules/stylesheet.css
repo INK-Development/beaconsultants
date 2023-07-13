@@ -1,0 +1,115 @@
+.modules-top {
+    position: relative;
+    height: fit-content;
+    width: 100%;
+    background-color: #bcbcbc;
+}
+
+.modules-top-inner {
+    position: relative;
+    width: 70%;
+    left: 50%;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    transform: translateX(-50%);
+}
+
+.modules-triumph-txt {
+    position: relative;
+    font-size: 1.65em;
+    letter-spacing: 0.8em;
+    font-family: "DM Mono";
+    margin-bottom: 0.5em;
+}
+
+.modules-triumph-title {
+    position: relative;
+    font-size: 2.5em;
+}
+
+.modules-section {
+    position: relative;
+    width: 100%;
+    background-color: #fff;
+    height: fit-content;
+    box-sizing: border-box;
+}
+
+.modules-section-inner {
+    position: relative;
+    padding-top: 5em;
+    padding-bottom: 5em;
+    width: 70%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.modules-section-title {
+    position: relative;
+    font-size: 2em;
+    margin-bottom: 1em;
+    font-weight: 500;
+    font-family: "DM Sans";
+}
+
+.modules-section-subtitle {
+    position: relative;
+    font-size: 1.6em;
+    margin-top: 0.8em;
+    margin-bottom: 0.4em;
+}
+
+.modules-section-description {
+    font-size: 1.3em;
+    margin-top: 0.3em;
+    margin-bottom: 0.3em;
+}
+
+.modules-tag-container {
+    position: relative;
+    width: 100%;
+    margin-top: 1em;
+}
+
+.module-tag {
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #fff;
+    padding: 0.3em;
+    border-radius: 5px;
+}
+
+.modules-section-image {
+    position: relative;
+    height: fit-content;
+    width: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #2F2A2A;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.modules-section-image-top {
+    position: relative;
+    padding: 1em;
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 1.4em;
+    color: #fff; 
+}
+
+.modules-section-image-bottom {
+    position: relative;
+    height: 38em;
+    width: 100%;
+    background-color: #ccc;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

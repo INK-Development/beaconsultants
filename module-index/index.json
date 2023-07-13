@@ -1,10 +1,8 @@
-[
-    {
+[{
         "id": "DEBTORS",
         "name": "Debtors",
         "product": "BASE_PACK",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Using a system which helps better monitor your cash flow and expedite collections is the easy way to triumph over slow paying debtors"
             },
@@ -40,14 +38,13 @@
         "id": "CREDITORS",
         "name": "Creditors",
         "product": "BASE_PACK",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Paying suppliers on time and winning settlement discounts is a great triumph you can easily enjoy"
             },
             {
                 "type": "description",
-                "text" : "Triumph's ERP Creditors module puts great flexibility in your hands, allowing you the choice of open item or brought forward accounts, different ageing periods for different accounts and credit terms you can define to take advantage of the best times to pay.<br><br>The system provides you with a cheque and remittance advice printing facility as well as automatic updating of Triumph's General Ledger and Inventory modules. You can even nominate if a remittance advice is to be printed, faxed or emailed on a creditor by creditor basis. Automatic payment processing allows you to choose which invoices are to be paid at specific times. And a quick inquiry allows you to see any outstanding purchase orders that may have been raised for a particular supplier.<br><br>You can determine any retentions to be held against invoices, program withholding tax and automatically allocate disbursements to individual items on the invoice.<br><br>Similar to Triumph's Debtors module, a powerful parent/child relationship can be used to report on specific groups of creditors. You can retain creditors' histories for up to 7 years, and statistics and notes can be kept on all creditors' accounts."
+                "text": "Triumph's ERP Creditors module puts great flexibility in your hands, allowing you the choice of open item or brought forward accounts, different ageing periods for different accounts and credit terms you can define to take advantage of the best times to pay.<br><br>The system provides you with a cheque and remittance advice printing facility as well as automatic updating of Triumph's General Ledger and Inventory modules. You can even nominate if a remittance advice is to be printed, faxed or emailed on a creditor by creditor basis. Automatic payment processing allows you to choose which invoices are to be paid at specific times. And a quick inquiry allows you to see any outstanding purchase orders that may have been raised for a particular supplier.<br><br>You can determine any retentions to be held against invoices, program withholding tax and automatically allocate disbursements to individual items on the invoice.<br><br>Similar to Triumph's Debtors module, a powerful parent/child relationship can be used to report on specific groups of creditors. You can retain creditors' histories for up to 7 years, and statistics and notes can be kept on all creditors' accounts."
             },
             {
                 "type": "image",
@@ -60,8 +57,7 @@
         "id": "GENERAL_LEDGER",
         "name": "General Ledger",
         "product": "BASE_PACK",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Triumph ERP's General Ledger module is the easy way to analyse your organisation's financial performance"
             },
@@ -81,20 +77,19 @@
         ]
     },
     {
-    	"id": "INVENTORY",
+        "id": "INVENTORY",
         "name": "Inventory",
         "product": "BASE_PACK",
-        "layout": [
-      	    {   
-        	    "type": "title",
+        "layout": [{
+                "type": "title",
                 "text": "Powerful connections make Triumph ERP's Inventory module the easy way to manage your investment in stock"
             },
             {
-			    "type": "description",
+                "type": "description",
                 "text": "Inventory is the goods and materials a business acquires, produces or manufactures, for the purpose of manufacturing, selling or exchanging. With Triumph ERP you will have total control over GST, costing methods, pricing, discount rates and Wine Equalisation Tax (WET). For retailers, wholesalers and manufacturers, you can determine up to six different levels of pricing, manage your discount structures by customer and product groups; and make price amendments and updates at any stage of your operations.<br><br>Triumph’s Inventory module includes automatic re-ordering either by economic order quantities or maximum re-order levels, detailed notes on individual stock items and listings of alternate suppliers. Digital images of each stock item may be maintained on the system and displayed during invoice entry operations.<br><br>Multi-Location Stock allows you to keep track of stock holdings and costs at different warehouse and logistic points. Your reporting can include automatic conversions of stock-order quantities to sales; stock items status and valuations; stock movement; and price lists."
             },
             {
-        	    "type": "image",
+                "type": "image",
                 "text": "Stock Item Enquiry gives you a complete snap shot at a glance",
                 "url": "Inventory-Screenshot.gif"
             }
@@ -104,8 +99,7 @@
         "id": "BANK_RECONCILIATION",
         "name": "Bank Reconciliation",
         "product": "BASE_PACK",
-        "layout": [
-      	    {
+        "layout": [{
                 "type": "title",
                 "text": "Know exactly what your cash position is quickly and easily with Triumph ERP's Bank Reconciliation module."
             },
@@ -120,12 +114,11 @@
             }
         ]
     },
-	{
-    	"id": "EFT_PAYMENTS",
+    {
+        "id": "EFT_PAYMENTS",
         "name": "EFT Payments",
         "product": "BASE_PACK",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Paying suppliers by Triumph's EFT module is both expedient and efficient for you and your suppliers"
             },
@@ -140,12 +133,11 @@
             }
         ]
     },
-	{
-	    "id": "SALES_ORDER_ENTRY",
+    {
+        "id": "SALES_ORDER_ENTRY",
         "name": "Sales Order Entry",
         "product": "SALES_DEBTORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "When the key to exemplary customer service is to fulfill orders quickly, Triumph ERP's Sales Order Entry system is the easy way."
             },
@@ -176,8 +168,7 @@
         "id": "ADVANCED_SALES_ORDERS",
         "name": "Advanced Sales Orders",
         "product": "SALES_DEBTORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Advanced Sales Orders offers you advanced features not found in Sales Order Entry"
             },
@@ -192,12 +183,10 @@
             {
                 "type": "annotation",
                 "text": "1Paperless Picking requires suitable scanning device, e.g. Intermec CN51 with wireless or cellular connections recommended, and a Triumph login/user for each device. It also requires the mobile communications software, which is $500 ex per five scanners."
-            }
-            {
+            } {
                 "type": "description",
                 "text": "<br> <br>Kitting- gain the ability to change or modify individual components of a finished product to suit the customers' needs2. Kitting is suited towards companies that sell products that are packaged or group together, creating kits. Within the Bills of Materials module, these individual components come together like a recipe forming the single product.<br> <br>Previously, the individual components of the kit were fixed, but now, if a customer wants to change or modify the order, the Advanced Sale Order module can complete the task. The kitting functionality will drill into the recipe on the sales order line, modify it as requested, change the price and quantity, and reflect it on the invoice. This modified kit will then belong to the individual customer on a specific customer line. This functionality works best for businesses that would like the ability to change orders on the fly."
-            }
-            {
+            } {
                 "type": "annotation",
                 "text": "2Note that the Bill of Materials module is needed for the kitting functionality."
             },
@@ -224,8 +213,7 @@
         "id": "POINT_OF_SALE",
         "name": "Point of Sale",
         "product": "SALES_DEBTORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Better back-office accounting with Triumph's Point of Sale Software"
             },
@@ -290,15 +278,14 @@
                 "text": "DISCOVER A BETTER WAY TO MANAGE THE FINANCIAL SIDE OF YOUR BUSINESS WITH TRIUMPH ERP - POINT OF SALE",
                 "url": "pos-dem.png"
             }
-            
+
         ]
     },
     {
         "id": "ECOMMERCE",
         "name": "e-Commerce",
         "product": "SALES_DEBTORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Connecting to the world to let you do business more effectively is the easy way to triumph in e-Commerce",
             },
@@ -370,8 +357,7 @@
         "id": "CONSIGNMENT_STOCK",
         "name": "Consignment Stock/Managed Inventory",
         "product": "INVENTORY",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Have full control of stock managed on behalf of a third party supplier or manufacturer"
             },
@@ -393,8 +379,7 @@
         "id": "AGENT_CONSIGNMENT_STOCK",
         "name": "Agent Consignment Stock",
         "product": "INVENTORY",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Manage the stock you have consigned to agents with Triumph ERP's Agent Consignment Stock"
             },
@@ -419,13 +404,11 @@
                 "url": "agentstock.jpg"
             }
         ]
-    }
-    {
+    } {
         "id": "SPECIAL_PRICING",
         "name": "Special Pricing",
         "product": "INVENTORY",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Calculate and record discounts and promotions with Triumph ERP Special Pricing Module"
             },
@@ -459,8 +442,7 @@
         "id": "MANUFACTURER_CATALOG",
         "name": "Manufacturer Catalog",
         "product": "INVENTORY",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "The easy way to work with thousands of different manufacturer catalogue parts is with Triumph ERP."
             },
@@ -511,8 +493,7 @@
         "id": "STOCK_TRANSFERS",
         "name": "Stock Transfers",
         "product": "INVENTORY",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Hold stock at different physical locations, and easily transfer that stock when and where it's needed"
             },
@@ -530,7 +511,7 @@
                 "url": "st-diagram.png"
             },
             {
-                "type": "description", 
+                "type": "description",
                 "text": "When goods are shipped from the warehouse they can be transferred automatically to the store or the store can have their own stock receipt confirmation process."
             },
             {
@@ -544,8 +525,7 @@
         "id": "MULTI_LOCATION_STOCK",
         "name": "Multi Location Stock",
         "product": "INVENTORY",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Selling or manufacturing stock from multiple locations or stores with ease with Triumph ERP's Multi Location Stock"
             },
@@ -568,9 +548,8 @@
         "id": "BILL_OF_MATERIALS",
         "name": "Bill of Materials",
         "product": "INVENTORY",
-        "layout": [
-            {
-                
+        "layout": [{
+
                 "type": "title",
                 "text": "The easy way to integrate the management of assembling stock components into more complex items or finished good"
             },
@@ -579,7 +558,7 @@
                 "text": "Bill of Materials"
             },
             {
-                "type": "description",  
+                "type": "description",
                 "text": "The Bill of Materials module is dependent on and fully integrated with the Inventory module to allow you to keep control over components for manufacturing. With Triumph's Bill of Materials, a single bill can have any number of components, which may be a stock item, another bill of materials, or a labour component.<br> <br>The cost of the bill is dynamically calculated whenever an assemble or disassemble function, or an inquiry is carried out. A bill of material is easy to define, enter and maintain and any number of different items may be simultaneously assembled or disassembled. Whenever a bill of materials is requisitioned to a job, the system can optionally break down the bill into each component as it is requisitioned to the job. All entries are automatically reflected in the Inventory module and a transaction audit report can be produced showing all assemblies and disassembles for the period."
             },
             {
@@ -593,8 +572,7 @@
         "id": "INVENTORY_SCANNING",
         "name": "Inventory Scanning",
         "product": "INVENTORY",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Inventory Scanning is designed to work with state-of-the-art handheld terminal scanners, either through WiFi or over the mobile network"
             },
@@ -613,7 +591,7 @@
             {
                 "type": "image",
                 "url": "scannerdouble.png"
-            }, 
+            },
             {
                 "type": "description",
                 "text": "Scan a product barcode to display key information about an item, including the bin locations, quantity available, quantity expected in, outstanding sales orders, and product image. You can also edit the bin and bulk bin locations, as well as add new barcodes."
@@ -668,8 +646,7 @@
         "id": "MULTI_DIVISION",
         "name": "Multi Division",
         "product": "INVENTORY",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Operate multiple company divisions or branches with your reporting consolidated in one easy location with Triumph ERP's Multi Division module"
             },
@@ -692,8 +669,7 @@
         "id": "JOB_COSTING",
         "name": "Job Costing",
         "product": "JOB_COSTING-QUOTING",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Know precisely what every component of every job, product or service contributes to your bottom line with Triumph ERP Software."
             },
@@ -723,14 +699,13 @@
                 "type": "list",
                 "text": "The Triumph Job Costing Manager has features that cater for any costing or pricing system in any manufacturing, sub-contracting or service delivery environment.<br> <br><ul>Flexible setup to fit the way your business operates.<ul>Seamless integration with Inventory, Bill of Materials, Creditors, Purchasing, Purchase Requisitions, Point of Sale, Debtors and General Ledger.<ul>Ability to define a hierarchy of cost centres within jobs, jobs within parent jobs, and job groupings at top level.<ul>Job Quoting creates jobs, budgets, purchase orders/requisitions and inventory requirement lists.<ul>Use the Time Clock module in workshop environments for fast and accurate time recording, and use the labour times to generate your payroll.<ul>Job worksheets, customer quotes, supplier requests for quotes, and customer invoices.<ul>Full Work in Progress (WIP) recording and reporting, allocated down to transaction level.<ul>Capture of expenses for labour, materials, subcontractors, purchases and overheads.<ul>Optional warnings in job budgets when expenditure is too high.<ul>Optionally record income in advance.<ul>Set “cost plus” margin rules on each job centre or cost centre.<ul>View comprehensive statistics on the job including WIP and purchase commitments.<ul>Jobs can run across financial years, or even as a perpetual job like a client.<ul>Jobs for internal purposes may be created and managed in a similar way.<ul>Wide range of reports such as Costing Comparison Reports, Work in Progress Reports, Invoice Worksheet Reports.<br> <br>Triumph’s Costing module integrates with other Triumph modules, including Purchase Ordering, Inventory and Bill of Materials, it can be used as a stand-alone module in single or multi-user formats. And with equal success in small and large organisations."
             }
-            ]
+        ]
     },
     {
         "id": "JOB_QUOTING",
         "name": "Job Quoting",
         "product": "JOB_COSTING-QUOTING",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "The easy way to start a quote, transform the quote into a job, and keep track of all the material, labour and sub-contractor costs and charges."
             },
@@ -766,8 +741,7 @@
         "id": "TIME_CLOCK",
         "name": "Time Clock",
         "product": "JOB_COSTING-QUOTING",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "The fastest, simplest and most accurate way of recording labour time against jobs in a workshop environment."
             },
@@ -791,8 +765,7 @@
         "id": "JOB_MOBILE",
         "name": "Job Mobile",
         "product": "JOB_COSTING-QUOTING",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Record, report, and tracking all expenses and activities for a job directly from a smartphone with Job Mobile."
             },
@@ -822,13 +795,12 @@
         "id": "FOREIGN_CREDITORS",
         "name": "Foreign Creditors",
         "product": "PURCHASING_CREDITORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Triumph over fluctuating exchange rates and other international trading complexities with the foreign currency module."
             },
             {
-                "type":"subtitle",
+                "type": "subtitle",
                 "text": "Foreign Creditors"
             },
             {
@@ -846,8 +818,7 @@
         "id": "PURCHASE_ORDERING",
         "name": "Purchase Ordering",
         "product": "PURCHASING_CREDITORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Manage your purchase ordering and inventory costs with easy thanks to Triumph ERP"
             },
@@ -871,8 +842,7 @@
         "id": "PURCHASE_REQUISITIONS",
         "name": "Purchase Requisitions",
         "product": "PURCHASING_CREDITORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "The easy way to marshal goods and services that must be purchased"
             },
@@ -895,8 +865,7 @@
         "id": "ADVANCED_PURCHASING",
         "name": "Advanced Purchasing",
         "product": "PURCHASING_CREDITORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Create a secure electronic payments file to be sent to your back-end for efficient processing"
             },
@@ -912,15 +881,14 @@
                 "type": "list",
                 "text": "Benefits include:<br> <br><ul>Use incoterms on Purchase Orders.<ul>Scanned receipted goods and match to multiple purchase orders.<ul>Scan out shipper barcodes or inner barcodes.<ul>Handles exceptions, such as over supply.<ul>Work orders are a new type of purchase order.<ul>They have their own document.<ul>Orders may be classified as 'unapproved'.<ul>Automated landed costs.<ul> No operator intervention.<ul>Markup stock as it is received into the inventory.<ul> Based on quantity, volume, area or weight.<ul>Each stock item can have a different set of markups.<ul>Raise internal requisitions.<ul>Hold or submit requests when ready.<ul>Send requests for supplier quotations.<ul>Independently convert to one or more purchase orders.<ul>User defined columns flow from Purchase Requisition to Purchase Order.<ul>Extended descriptions on purchase request and purchase order lines.<ul>Up to 512 characters.<ul>Advanced purchasing management.<ul>Competitive advantage through the application of knowledge-based cost management."
             }
-            
+
         ]
     },
     {
         "id": "WEB_REQUISITIONS",
         "name": "Web Requisitions",
         "product": "PURCHASING_CREDITORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Streamline purchasing via the web with Triumph ERP Web Requisitions"
             },
@@ -937,13 +905,11 @@
                 "url": "web-rec.png"
             }
         ]
-    }
-    {
+    } {
         "id": "REQUEST_FOR_CREDIT",
         "name": "Supplier Request for Credit",
         "product": "PURCHASING_CREDITORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Supplier Request for Credit is a new half module that allows you to keep track of supplier credit requests."
             },
@@ -974,8 +940,7 @@
             {
                 "type": "image",
                 "url": "creditworkflow.png"
-            }
-            {
+            } {
                 "type": "description",
                 "text": "A credit note is considered a negative invoice. Credit notes are a way to amend the details of a purchase order invoice after it has been authorised. In the same way that payments are applied to close out an invoice balance, refunds are issued to close out a credit note balance. <br> <br>A credit note can be applied to a purchase order with Triumph's Supplier Request for Credit module.<br> <br><ul>For individual items - when a unit price has been overcharged<ul>For part of a shipment - when part of a shipment has either been short-shipped, or damaged goods were received<ul>For a whole shipment - when an entire shipment was received incorrectly, or it was shipped out incorrectly and you need to cancel it entirely.<ul>For a discount applied to an order after the invoice has been authorised.<ul>You can also issue credit notes that are not associated with any particular purchase.<ul>Process multiple credit notes for the same purchase order"
             },
@@ -995,10 +960,9 @@
         "id": "FOREIGN_BANKING",
         "name": "Foreign Banking",
         "product": "PURCHASING_CREDITORS",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
-                "text": "Triumph over fluctuating exchange rates and other international trading complexities with the foreign currency modules"    
+                "text": "Triumph over fluctuating exchange rates and other international trading complexities with the foreign currency modules"
             },
             {
                 "type": "subtitle",
@@ -1024,8 +988,7 @@
         "id": "BUSINESS_INTELLIGENCE",
         "name": "Business Intelligence",
         "product": "INFORMATION_INTELLIGENCE",
-        "layout" [
-            {
+        "layout" [{
                 "type": "title",
                 "text": "Full integration to give you on-demand access to performance data across your enterprise in real-time"
             },
@@ -1053,8 +1016,7 @@
         "id": "PROOF_OF_DELIVERY",
         "name": "Proof of Delivery",
         "product": "INFORMATION_INTELLIGENCE",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Capture a customer's signature as proof of goods being delivered or picked up with the Proof of Delivery Module"
             },
@@ -1085,13 +1047,12 @@
         "id": "WEB_SERVICES_API",
         "name": "Web Services API",
         "product": "INFORMATION_INTELLIGENCE",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Create system setups, custom integrations, and collaborative developments with external developers with Triumph ERP's Web Services API"
             },
             {
-                "type": "subtitle", 
+                "type": "subtitle",
                 "text": "Web Serices API"
             },
             {
@@ -1120,8 +1081,7 @@
         "id": "ELECTRONIC_DATA_INTERCHANGE",
         "name": "Electronic Data Interchange",
         "product": "INFORMATION_INTELLIGENCE",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Leave paper behind and enjoy major benefits such as reduced cost, increased processing speed, reduced errors and improved relationships thanks to EDI",
             },
@@ -1143,7 +1103,7 @@
             },
             {
                 "type": "subtitle1-2",
-                "text": "The EDI process looks like this — no paper, no people involved:"   
+                "text": "The EDI process looks like this — no paper, no people involved:"
             },
             {
                 "type": "image",
@@ -1175,8 +1135,7 @@
         "id": "FIXED_ASSETS",
         "name": "Fixed Assets",
         "product": "INFORMATION_INTELLIGENCE",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Have easy and functional accounting control over your fixed assets through Triumph ERP's Fixed Assets"
             },
@@ -1193,7 +1152,7 @@
                 "url": "FA-Maint.png"
             },
             {
-                "type": "description", 
+                "type": "description",
                 "text": "Using the Triumph Fixed Assets module, you can maintain an accurate record of the identity and location of each fixed asset. Furthermore, fixed assets can be broken into components; an especially useful function when components have differing depreciation methods or values.  Triumph’s Fixed Assets module provides you with a total control management system for assets that can be accounted for as components or as complete units. Components can be moved from asset to asset or broken down further into sub-components. The 'tracking' feature ensures you never lose sight of the value or the location of the asset."
             },
             {
@@ -1248,8 +1207,7 @@
         "id": "PAYROLL",
         "name": "Payroll",
         "product": "PAYROLL",
-        "layout": [
-            {
+        "layout": [{
                 "type": "title",
                 "text": "Make payroll simple and efficient while ensuring compliance with modern awards and legislation so you can focus on what you do best"
             },
@@ -1290,5 +1248,5 @@
                 "text": "Triumph ERP software integrates with WageEasy Payroll and HR. WageEasy is priced at $70.00 per active employee with a minimum initial purchase of ten employees. Additional active employees can be added when required based on a minimum purchase of five. Annual software support is 20% with a minimum $560.00."
             }
         ]
-    }  
-] 
+    }
+]
