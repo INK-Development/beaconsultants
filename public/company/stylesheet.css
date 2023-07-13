@@ -1,5 +1,6 @@
 .landing-header {
     position: relative;
+    display: flex;
     width: 100%;
     height: fit-content;
     background-image: url("/pics/DSC06819.JPG");
@@ -42,12 +43,95 @@
     font-size: 1.4em;
 }
 
+.section-icon {
+    position: relative;
+    height: 3em;
+    width: 3em;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ttt {
+    position: relative;
+    right: 0px;
+    margin-right: 0px;
+    margin-left: auto;
+}
+
 .miscontainer {
     position: relative;
     display: inline-block;
     flex-direction: row;
     justify-content: left;
     height: fit-content;
+    background-color: #2F2A2A;
+    border-radius: 15px;
     width: 30em;
+    margin: 0em;
     color: #fff;
   }
+
+.landing-about {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    height: fit-content;
+    width: fit-content;
+    color: #fff;
+    margin-left: 3em;
+    width: 45%;
+}
+
+.client-showcase-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: #000;
+    opacity: 0.55;
+}
+
+.landing-about .section-title {
+    margin-bottom: 0.25em;
+}
+
+.client-testimonials {
+    position: relative;
+    width: 100%;
+    background-color: #fff;
+    padding: 5em;
+    padding-left: 0px;
+    padding-right: 0px;
+    box-sizing: border-box;
+}
+
+.client-testimonial-inner {
+    position: relative;
+    text-align: center;
+    width: 70%;
+    height: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.client-testimonial-inside {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 3em;
+}
+
+.client-item {
+    position: relative;
+    display: inline-block;
+    height: 10em;
+    width: 20em;
+    transition: 0.5s ease all;
+    margin-right: 2em;
+    margin-left: 2em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
