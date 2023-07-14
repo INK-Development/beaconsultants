@@ -98,10 +98,10 @@
     position: relative;
     width: 100%;
     height: fit-content;
-    background-color: #F0F1F1;
+    background-color: #FFF;
     padding: 9em;
     box-sizing: border-box;
-    background-image: url("pics/bg-squigles_e8e8e8.png");
+    /* background-image: url("pics/bg-squigles_e8e8e8.png"); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -194,12 +194,12 @@
     position: relative;
     box-sizing: border-box;
     padding: 9em;
-    background-image: url("/pics/bg-squigles2_e8e8e8.png");
+    /* background-image: url("/pics/bg-squigles2_e8e8e8.png"); */
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #F0F1F1;
+    background-color: #fff;
 }
 
 .showcase-mb-inner {
