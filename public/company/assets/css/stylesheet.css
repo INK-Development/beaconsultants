@@ -35,26 +35,6 @@
   margin-bottom: 50px;
 }
 
-.miscard {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: left;
-  padding: 50px;
-  background-color: #2F2A2A;
-  border-radius: 1rem;
-}
-
-.miscontainer {
-  position: relative;
-  margin-left: 5em;
-  display: flex;
-  flex-direction: row;
-  justify-content: left;
-  width: 500px;
-  height: 300px;
-}
-
 .caption1-, {
   position: relative;
   font-family: 'DM Sans';
