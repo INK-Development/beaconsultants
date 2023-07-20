@@ -3,7 +3,8 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 800px;
+    padding-top: 10em;
+    padding-bottom: 10em;
     background-image: url("/pics/mountainsbg.jpg");
     background-position: center;
     background-size: cover;
@@ -13,8 +14,10 @@
 
 .section-overlay {
     position: absolute;
-    color: #000;
-    opacity: .55;
+    left: 0px;
+    top: 0px;
+    background-color: #000;
+    opacity: .6;
     height: 100%;
     width: 100%;
 }
@@ -35,6 +38,31 @@
     vertical-align: middle;
     color: #fff;
     letter-spacing: .1em;
+}
+
+.landing-section-container .section-title {
+    position: relative;
+    margin-bottom: 1em;
+    font-size: 1.8em;
+    letter-spacing: 0.4em;
+    font-family: "DM Mono";
+    text-transform: uppercase;
+}
+
+.section-icon, .section-icon-huge {
+    position: relative;
+    height: 1.5em;
+    width: 1.5em;
+    margin-bottom: 0.8em;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.section-icon-huge {
+    width: 4em;
+    height: 4em;
+    margin-bottom: 1em;
 }
 
 .section-title {
@@ -60,17 +88,20 @@
 .about-container {
     position: relative;
     background-color: #fff;
-    display: flex;
     flex-direction: column;
     padding: 7em;
+    padding-left: 0em;
+    padding-right: 0em;
 }
 
 .landing-about {
     position: relative;
     vertical-align: middle;
     height: fit-content;
-    width: fit-content;
-    color: #fff;
+    width: 70%;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #000;
 }
 
 .miscontainer {
@@ -79,6 +110,7 @@
     flex-direction: column;
     text-align: left;
     height: fit-content;
+    padding:9em 0em;
     width: 100%;
     background-image: url("/pics/missionbg.jpg");
     background-position: center;
@@ -89,11 +121,12 @@
 
 .miscard {
     position: relative;
-    display: flex;
     flex-direction: column;
     justify-content: left;
     text-align: left;
-    padding: 100px;
+    width: 70%;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .section-description {
