@@ -1,15 +1,23 @@
 .landing-header {
     position: relative;
-    height: 100%;
+    display: flex;
+    flex-direction: column;
     width: 100%;
-    height: fit-content;
-    background-image: url("/pics/shutterstock_181241420.jpg");
+    height: 800px;
+    background-image: url("/pics/mountainsbg.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
+.section-overlay {
+    position: absolute;
+    color: #000;
+    opacity: .55;
+    height: 100%;
+    width: 100%;
+}
 .landing-header-inner {
     position: relative;
     height: fit-content;
@@ -20,6 +28,15 @@
     padding-bottom: 8em;
 }
 
+.landing-section-container {
+    position: relative;
+    flex-direction: column;
+    text-align: center;
+    vertical-align: middle;
+    color: #fff;
+    letter-spacing: .1em;
+}
+
 .section-title {
     position: relative;
     font-size: 2.25em;
@@ -28,7 +45,7 @@
 
 .section-title-huge {
     position: relative;
-    font-size: 3em;
+    font-size: 2.75em;
     margin-bottom: 0.5em;
     color: #fff;
 }
@@ -36,62 +53,54 @@
 .section-subtitle {
     position: relative;
     font-size: 1.6em;
+    color: #000;
+    text-align: left;
 }
 
-.section-description {
+.about-container {
     position: relative;
-    font-size: 1.4em;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    padding: 7em;
 }
 
-.section-icon {
+.landing-about {
     position: relative;
-    height: 3em;
-    width: 3em;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-.ttt {
-    position: relative;
-    right: 0px;
-    margin-right: 0px;
-    margin-left: auto;
+    vertical-align: middle;
+    height: fit-content;
+    width: fit-content;
+    color: #fff;
 }
 
 .miscontainer {
     position: relative;
-    display: block;
-    justify-content: left;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
     height: fit-content;
-    background-color: #2F2A2A;
-    border-radius: 15px;
     width: 100%;
-    margin: 0em;
-    color: #fff;
-  }
+    background-image: url("/pics/missionbg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 
-.landing-about {
+.miscard {
     position: relative;
-    display: block;
-    width: 100%;
-    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    padding: 100px;
+}
+
+.section-description {
+    position: relative;
+    font-size: 1.6em;
     color: #fff;
-    margin-left: 3em;
-}
 
-.client-showcase-overlay {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    top: 0px;
-    left: 0px;
-    background-color: #000;
-    opacity: 0.55;
-}
-
-.landing-about .section-title {
-    margin-bottom: 0.25em;
 }
 
 .client-testimonials {
