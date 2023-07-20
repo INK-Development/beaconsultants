@@ -1,5 +1,1 @@
-document.addEventListener("DOMContentLoaded", ()=>{
-    var rellax = new Rellax('.rellax', {
-        wrapper: ".parallax-landing"
-    });
-});
+var rellax = new Rellax('.rellax');

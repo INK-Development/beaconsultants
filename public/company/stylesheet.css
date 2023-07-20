@@ -1,9 +1,9 @@
 .landing-header {
     position: relative;
-    display: flex;
+    height: 100%;
     width: 100%;
     height: fit-content;
-    background-image: url("/pics/DSC06819.JPG");
+    background-image: url("/pics/shutterstock_181241420.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -61,26 +61,23 @@
 
 .miscontainer {
     position: relative;
-    display: inline-block;
-    flex-direction: row;
+    display: block;
     justify-content: left;
     height: fit-content;
     background-color: #2F2A2A;
     border-radius: 15px;
-    width: 30em;
+    width: 100%;
     margin: 0em;
     color: #fff;
   }
 
 .landing-about {
     position: relative;
-    display: inline-block;
-    vertical-align: middle;
+    display: block;
+    width: 100%;
     height: fit-content;
-    width: fit-content;
     color: #fff;
     margin-left: 3em;
-    width: 45%;
 }
 
 .client-showcase-overlay {
