@@ -23,15 +23,25 @@ document.addEventListener("DOMContentLoaded", ()=>{
 
         console.log("Switching to " + quote_no);
 
-        let quote = quotes[quote_no];
-        document.getElementById("quote").innerHTML = quote.quote;
-        document.getElementById("quote_name").innerHTML = quote.quote_name;
-        document.getElementById("quote_position").innerHTML = quote.quote_position;
+        $("#quote-container-inner").animate({ "opacity": "0" });
+
+        //Wait 1 second after fading out before changing the text
+        setTimeout(()=>{
+            let quote = quotes[quote_no];
+            document.getElementById("quote").innerHTML = quote.quote;
+            document.getElementById("quote_name").innerHTML = quote.quote_name;
+            document.getElementById("quote_position").innerHTML = quote.quote_position;    
+        }, 1000);
+
+        //Wait 1500ms before fading in the next quote:
+        setTimeout(()=>{
+            $("#quote-container-inner").animate({ "opacity": "1" })
+        }, 1500);
 
         let nextQuote = Math.floor(Math.random() * quotes.length);
         let nextDelay = 5000 + Math.floor(Math.random() * 2000);
 
-        while (last_quote == nextQuote){
+        while (quote_no == nextQuote){
             nextQuote = Math.floor(Math.random() * quotes.length);
         }
 

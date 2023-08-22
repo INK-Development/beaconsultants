@@ -6,14 +6,20 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@300;400&display=swap" rel="stylesheet">    <link rel="stylesheet" href="navbar-footer.css" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@400;500;700&family=Space+Grotesk:wght@300;400&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="navbar-footer.css" />
     <link rel="stylesheet" href="stylesheet.css" />
     <script src="rellax.min.js"></script>
+    <script src="jquery.min.js"></script>
+    <script src="jquery-ui.min.js"></script>
     <script src="index.js"></script>
+    <script src="parallax.js"></script>
 </head>
 
 <body>
-    
+
     <div id="_navbar">
         <div id="navbar">
 
@@ -38,10 +44,20 @@
             </div>
 
         </div>
-    </div>  
+    </div>
 
     <div class="parallax-landing">
-        <div class="parallax-layer rellax" style="background-image: url('/pics/shutterstock_695221630.png')" id="p1" data-rellax-speed="2">
+        <div class="parallax-background"></div>
+        <div class="planding-text rellax">
+            <div class="planding-inner">
+                <div class="section-title-huge">Maximise your potential</div>
+                <div class="section-subtitle"><a style="font-size: 1.25em;">B.E.A</a> is a leading ERP implementation
+                    consulting company that specialises in Triumph ERP- Australia’s Business of the year. We aim to
+                    assist organisations in implementing a robust and efficient enterprise resource planning (ERP)
+                    system to optimise their business processes and enhance overall productivity.</div>
+            </div>
+        </div>
+        <!-- <div class="parallax-layer rellax" style="background-image: url('/pics/shutterstock_695221630.png')" id="p1" data-rellax-speed="2">
             <div class="parallax-overlay"></div>
         </div>
         <div class="parallax-layer rellax" style="background-image: url('/pics/shutterstock_650541301.png')" id="p2" data-rellax-speed="-1">
@@ -53,19 +69,22 @@
                 <div class="section-title-huge">Maximise your potential</div>
             </div>
         </div>
-        <div class="parallax-layer rellax" style="background-image: url('/pics/shutterstock_2176338283.png')" id="p3" data-rellax-speed="-5"></div>
-    </div>
+        <div class="parallax-layer rellax" style="background-image: url('/pics/shutterstock_2176338283.png')" id="p3" data-rellax-speed="-5"></div> -->
+        <div class="bea-showcase rellax">
+            <div class="bea-showcase-inner">
 
-    <div class="bea-showcase">
-        <div class="bea-showcase-inner">
+                <div class="section-title">B.E.A</div>
+                <div class="section-subtitle">With a team of highly skilled and experienced professionals, B.E.A
+                    provides comprehensive ERP implementation services tailored to meet the unique needs of each
+                    organization.<br><br> We understand that every business has its own set of challenges and
+                    requirements, and we work closely with our clients to design and deliver customized ERP solutions
+                    that align with their strategic objectives.</div>
 
-            <div class="section-title">B.E.A: Business Efficiency Architects</div>
-            <div class="section-subtitle">With a team of highly skilled and experienced professionals, B.E.A provides comprehensive ERP implementation services tailored to meet the unique needs of each organization.<br><br> We understand that every business has its own set of challenges and requirements, and we work closely with our clients to design and deliver customized ERP solutions that align with their strategic objectives.</div>
-
+            </div>
         </div>
     </div>
 
-    <div class="landing-showcase">
+    <!-- <div class="landing-showcase">
         <div class="client-showcase-overlay"></div>
 
         <div class="landing-showcase-inner">
@@ -79,9 +98,9 @@
 
         </div>
         
-    </div>
+    </div> -->
 
-    <div class="modular-triumph">
+    <!-- <div class="modular-triumph">
 
         <div class="mt-inner">
 
@@ -108,14 +127,102 @@
             
         </div>
 
+    </div> -->
+    <div>
+        <!--
+
+            02/08/2023 TODO:
+            - Remove all dividers [done]
+            - Remove footer background image
+            - Move .showcase-base-models into .triumph-report-showcase [done]
+            - Add customer logo showcase (see netwonx.com) => need images
+
+        -->
     </div>
-    <div class="triumph-report-divider"></div>
-    <div class="showcase-base-models">
+    <div class="triumph-report-showcase">
+        <div class="tr-left">
+            <div class="mt-inner">
+
+                <!-- <div class="mt-spinner"></div> -->
+
+                <div class="mt-integrated">
+                    <div class="mt-integrated-left">
+                        <div class="section-title">Triumph</div>
+                        <div class="section-subtitle">Triumph ERP, our flagship product, is a powerful and versatile
+                            software solution that enables organisations to integrate and streamline their core business
+                            functions, including finance, inventory management, sales, manufacturing, and customer
+                            relationship management.</div>
+                        <div class="section-subtitle">By implementing Triumph ERP, companies can gain real-time insights
+                            into critical business data, effectively manage their resources, improve decision-making
+                            processes, and enhance overall operational efficiency.</div>
+                        <div class="section-description better-business">DESIGNED FOR BETTER BUSINESS DECISIONS</div>
+                    </div>
+                </div>
+
+                <div class="showcase-mb-inner">
+
+                    <div class="showcase-mb-top">
+                        <!-- <div class="mt-spinner"
+                            style="margin: 0px; margin-bottom: 2em; background-image: url('pics/Gear Set-0.2s-200px_000.svg')">
+                        </div> -->
+                        <div>
+                            <div class="section-title-huge">Drive your business to success</div>
+                            <div class="section-title" style="color: #949494;">as you need it.</div>
+                        </div>
+                    </div>
+
+                    <div class="section-subtitle">TRIUMPH offers 6 base modules, and 47 additional models.</div><br>
+                    <div class="section-subtitle">As TRIUMPH is modular, you can add additional models as different
+                        needs for your business arises.</div>
+                    <div class="showcase-mb-bmodules">
+                        <!-- <div class="module">
+                    <div class="module-number">1</div>
+                    <div class="module-text">Core financials</div>
+                </div>
+                <div class="module">
+                    <div class="module-number">2</div>
+                    <div class="module-text">Sales</div>
+                </div>
+                <div class="module">
+                    <div class="module-number">3</div>
+                    <div class="module-text">Inventory</div>
+                </div>
+                <div class="module">
+                    <div class="module-number">4</div>
+                    <div class="module-text">Purchasing</div>
+                </div>
+                <div class="module">
+                    <div class="module-number">5</div>
+                    <div class="module-text">Job Costing</div>
+                </div>
+                <div class="module">
+                    <div class="module-number">6</div>
+                    <div class="module-text">Information intelligence</div>
+                </div> -->
+                    </div>
+
+                    <div class="arrow-link">
+                        <a href="/modules/" style="color: #000">
+                            <div class="arrow-txt">Explore our range of modules</div>
+                            <div class="arrow-icon"></div>
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+        <div class="tr-right"></div>
+    </div>
+    <!-- <div class="triumph-report-divider"></div> -->
+    <!-- <div class="showcase-base-models">
 
         <div class="showcase-mb-inner">
-            
+
             <div class="showcase-mb-top">
-                <div class="mt-spinner" style="margin: 0px; margin-bottom: 2em; background-image: url('pics/Gear Set-0.2s-200px_000.svg')"></div>
+                <div class="mt-spinner"
+                    style="margin: 0px; margin-bottom: 2em; background-image: url('pics/Gear Set-0.2s-200px_000.svg')">
+                </div>
                 <div>
                     <div class="section-title-huge">Drive your business to success</div>
                     <div class="section-title" style="color: #949494;">as you need it.</div>
@@ -123,7 +230,8 @@
             </div>
 
             <div class="section-subtitle">TRIUMPH offers 6 base modules, and 47 additional models.</div><br>
-            <div class="section-subtitle">As TRIUMPH is modular, you can add additional models as different needs for your business arises.</div>
+            <div class="section-subtitle">As TRIUMPH is modular, you can add additional models as different needs for
+                your business arises.</div>
             <div class="showcase-mb-bmodules">
                 <div class="module">
                     <div class="module-number">1</div>
@@ -152,31 +260,65 @@
             </div>
 
             <div class="arrow-link">
-                <div class="arrow-txt">Explore our range of modules</div>
-                <div class="arrow-icon"></div>
+                <a href="/modules/" style="color: #000">
+                    <div class="arrow-txt">Explore our range of modules</div>
+                    <div class="arrow-icon"></div>
+                </a>
             </div>
-            
+
         </div>
 
+    </div> -->
+    <div class="quote-showcase"></div>
+    <div class="client-showcase-new">
+        <div class="client-showcase-overlay"></div>
+        <div class="client-showcase-title">
+            <div class="quote-icon"></div>
+            <!-- <div class="mt-spinner" style="background-image: url(pics/Sunny-1s-200px.svg)"></div> -->
+            <div class="section-title-huge">Take your time back</div>
+            <div class="section-subtitle" style="color: #949494;">with TRIUMPH</div>
+            <!-- <div class="company-sections">
+                <div id="company-logos">
+                    <div class="company-logo"></div>
+                    <div class="company-logo"></div>
+                    <div class="company-logo"></div>
+                    <div class="company-logo"></div>
+                </div>
+            </div> -->
+            <div class="mission-statement">
+                <div class="section-description">Our mission is to give businesses back time. The time to focus on
+                    growth, the time to focus on your craft and the time to focus on you.</div>
+                <div class="section-description">We strive for this by transforming tasks into processes and processes
+                    into insights creating knowledge that fuels real action. All through one simple interconnected
+                    platform.</div>
+
+                <div class="arrow-link">
+                    <a href="/company/" style="color: #fff;">
+                        <div class="arrow-txt">View our company profile</div>
+                        <div class="arrow-icon-w"></div>
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="rainbow-divider" style="background-image: url('/pics/DSC06758.JPG');"></div>
-    <div class="client-showcase">
+    <!-- <div class="client-showcase">
 
         <div class="client-showcase-right">
-
             <div class="client-showcase-overlay"></div>
             <div class="client-showcase-inner">
                 <div class="client-quote-container">
                     <div class="quote-icon"></div>
                     <div class="quote-flex-container">
                         <div class="quote-start"></div>
-                        <div class="client-quote" id="quote">Triumph ERP was able to provide an integrated solution to all aspects of our diverse business and producing management reports is now a breeze</div>
+                        <div class="client-quote" id="quote">Triumph ERP was able to provide an integrated solution to
+                            all aspects of our diverse business and producing management reports is now a breeze</div>
                         <div class="quote-end"></div>
                     </div>
                     <div class="quote-details">
                         <div class="quote-author">
                             <div class="quote-author-name" id="quote_name">Nicholas Smith</div>
-                            <div class="quote-author-title" id="quote_position">Director, Divisional Manager Corporate Services</div>
+                            <div class="quote-author-title" id="quote_position">Director, Divisional Manager Corporate
+                                Services</div>
                         </div>
                     </div>
                     <div class="arrow-link">
@@ -190,23 +332,46 @@
         <div class="client-showcase-left">
             <div class="">
                 <div class="client-showcase-title">
-                    <!-- <div class="mt-spinner" style="background-image: url(pics/Sunny-1s-200px.svg)"></div> -->
+                    <div class="mt-spinner" style="background-image: url(pics/Sunny-1s-200px.svg)"></div> 
                     <div class="section-title-huge">Take your time back</div>
                     <div class="section-subtitle" style="color: #949494;">with TRIUMPH</div>
                 </div>
 
-                <div class="section-description">Our mission is to give businesses back time. The time to focus on growth, the time to focus on your craft and the time to focus on you.</div>
-                <div class="section-description">We strive for this by transforming tasks into processes and processes into insights creating knowledge that fuels real action. All through one simple interconnected platform.</div>
+                <div class="section-description">Our mission is to give businesses back time. The time to focus on
+                    growth, the time to focus on your craft and the time to focus on you.</div>
+                <div class="section-description">We strive for this by transforming tasks into processes and processes
+                    into insights creating knowledge that fuels real action. All through one simple interconnected
+                    platform.</div>
 
                 <div class="arrow-link">
-                    <div class="arrow-txt">View our company profile</div>
-                    <div class="arrow-icon"></div>
+                    <a href="/company/" style="color: #000;">
+                        <div class="arrow-txt">View our company profile</div>
+                        <div class="arrow-icon"></div>
+                    </a>
                 </div>
             </div>
         </div>
-        
+
+    </div> -->
+    <div class="_client-quote">
+        <div class="client-quote-container">
+            <div id="quote-container-inner">
+                <div class="quote-flex-container">
+                    <div class="quote-start"></div>
+                    <div class="client-quote" id="quote">Triumph ERP was able to provide an integrated solution to
+                        all aspects of our diverse business and producing management reports is now a breeze</div>
+                    <div class="quote-end"></div>
+                </div>
+                <div class="quote-details">
+                    <div class="quote-author">
+                        <div class="quote-author-name" id="quote_name">Nicholas Smith</div>
+                        <div class="quote-author-title" id="quote_position">Director, Divisional Manager Corporate
+                            Services</div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="rainbow-divider" style="background-image: url('/pics/DSC06809.JPG')"></div>
     <div id="footer">
         <div class="footer-overlay"></div>
         <!-- <div class="footer-title">TRIUMPH</div> -->
@@ -225,7 +390,8 @@
                 </div>
                 <div class="footer-item">
                     <div class="footer-item-title">We'd love to hear from you</div>
-                    <div class="footer-item-description">We'd love to help you use TRIUMPH's modularity to achieve your business goals.</div>
+                    <div class="footer-item-description">We'd love to help you use TRIUMPH's modularity to achieve your
+                        business goals.</div>
                 </div>
                 <div class="footer-item" style="border-right: 0px;">
                     <div class="arrow-link">
