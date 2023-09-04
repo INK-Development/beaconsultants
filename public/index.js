@@ -1,3 +1,5 @@
+
+
 document.addEventListener("DOMContentLoaded", ()=>{
 
     let quotes = [
@@ -52,5 +54,9 @@ document.addEventListener("DOMContentLoaded", ()=>{
     }
 
     change_quote(1, 5500);
+
+    document.getElementById("back-to-top").onclick = ()=>{
+        window.scrollTo({ "top": 0, "behavior": "smooth" });
+    }
 
 });

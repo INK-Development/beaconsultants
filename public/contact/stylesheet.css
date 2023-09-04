@@ -85,6 +85,7 @@ input[type="text"], #message {
     background-color: #2F2A2A;
     transition: 0.5s ease all;
     outline: none;
+    color: #fff;
 }
 
 input[type="text"]:active {

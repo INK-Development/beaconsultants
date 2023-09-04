@@ -1,3 +1,7 @@
+html, body {
+    transition: 5s ease all;
+}
+
 .parallax-landing {
     position: relative;
     min-height: 70%;
@@ -6,7 +10,6 @@
     left: 0px;
     transition: 0.4s ease all;
     background: #61636B;
-
     background-image: url('/pics/shutterstock_624908471.jpg');
     background-position: center;
     background-size: cover;
@@ -219,8 +222,12 @@
     vertical-align: top;
 }
 
+.mt-integrated-left .section-title {
+    margin-bottom: 0.5em;
+}
+
 .mt-integrated-left .section-subtitle {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 
 .better-business {
@@ -423,7 +430,7 @@
 }
 
 .quote-end {
-    left: 95%;
+    left: 100%;
     vertical-align: bottom;
     background-image: url("pics/quote_end.png");
 }
@@ -484,6 +491,7 @@
 
 .arrow-link {
     cursor: pointer;
+    text-decoration: none;
 }
 
 .arrow-link:hover .arrow-icon, .arrow-link:hover .arrow-icon-w {
@@ -654,4 +662,60 @@ a href {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+}
+
+.companies {
+    position: relative;
+    width: 100%;
+    height: fit-content;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    background-image: url("/pics/shutterstock_624908471.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#company-view {
+    position: relative;
+    height: 15em;
+    width: 80%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.company-item {
+    position: relative;
+    height: 12em;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.company-row {
+    position: absolute;
+    width: 100%;
+    height: 10em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.company {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    height: 10em;
+    width: 20em;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 5px;
+    margin-right: 0.5em;
+    margin-bottom: 1em;
+    margin-left: 0.5em;
+}
+
+#crow-1B {
+    top: 100%;
 }
