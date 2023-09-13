@@ -24,15 +24,27 @@ document.addEventListener("DOMContentLoaded", ()=>{
 
             //Move #crow-1A down:
             $("#crow-1A").animate({ "top": "-100%" });
+            $("#crow-1C").animate({ "top": "-100%" });
 
             //Move #crow-1B  up:
             $("#crow-1B").animate({ "top": "0%" });
+            $("#crow-1D").animate({ "top": "0%" });
 
             //Now populate the images for each item in #crow-1B:
             for (var i = 1; i < 5; i++){
-                let image = images[Math.floor(Math.random() * images.length)+1];
-                console.log("adding in " + " #crow-1B_" + i + ", /pics/companies/" + image);
+                let x = Math.floor(Math.random() * images.length); //random index of item in images[]
+                let y = Math.floor(Math.random() * images.length); //random index of item in images[]
+                
+                if (x > images.length || images[x] == undefined) x = 0;
+                if (y > images.length || images[y] == undefined) y = 0;            
+                
+                let image = images[x];
+                let image_y = images[y];
+
+                console.log("adding in " + " #crow-1B_" + i + ", /pics/companies/" + image + " (x: " + x + ", y: "+ y +" images.length: " + images.length + ")");
+
                 changeBg("crow-1B_" + i, image);
+                changeBg("crow-1D_" + i, image_y);
             }
 
             //Change the viewport for next time:
@@ -43,15 +55,26 @@ document.addEventListener("DOMContentLoaded", ()=>{
 
             //Move #crow-1A up:
             $("#crow-1A").animate({ "top": "0%" });
+            $("#crow-1C").animate({ "top": "0%" });
 
             //Move #crow-1B down:
             $("#crow-1B").animate({ "top": "100%" });
+            $("#crow-1D").animate({ "top": "100%" });
 
             //Now populate the images for each item in #crow-1A:
             for (var i = 1; i < 5; i++){
-                let image = images[Math.floor(Math.random() * images.length)+1];
-                console.log("adding in " + " #crow-1A_" + i + ", /pics/companies/" + image);
+                let x = Math.floor(Math.random() * images.length); //random index of item in images[]
+                let y = Math.floor(Math.random() * images.length); //random index of item in images[]
+                
+                if (x > images.length || images[x] == undefined) x = 0;
+                if (y > images.length || images[y] == undefined) y = 0;            
+                
+                let image = images[x];
+                let image_y = images[y];
+
+                console.log("adding in " + " #crow-1A_" + i + ", /pics/companies/" + image + " (x: " + x + ",y: "+ y +" images.length: " + images.length + ")");
                 changeBg("crow-1A_" + i, image);
+                changeBg("crow-1C_" + i, image_y);            
             }
 
             //Change the viewport for next time:
@@ -65,5 +88,8 @@ document.addEventListener("DOMContentLoaded", ()=>{
 
 function changeBg(id, image){
     console.log("id: " + id, ", image: " + image);
-    document.getElementById(id).style.backgroundImage = "url('" + image + "');";
+    // document.getElementById(id).style.backgroundImage = "url('" + image + "');";
+    $("#" + id).css({
+        "background-image": "url(/pics/companies/"+ image+")"
+    })
 }

@@ -664,6 +664,16 @@ a href {
     background-size: contain;
 }
 
+#overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    opacity: 0.6;
+    background-color: #61636B;
+}
+
 .companies {
     position: relative;
     width: 100%;
@@ -679,7 +689,7 @@ a href {
 
 #company-view {
     position: relative;
-    height: 15em;
+    min-height: 15em;
     width: 80%;
     left: 50%;
     transform: translateX(-50%);
@@ -716,6 +726,6 @@ a href {
     margin-left: 0.5em;
 }
 
-#crow-1B {
+#crow-1B, #crow-1D {
     top: 100%;
 }
