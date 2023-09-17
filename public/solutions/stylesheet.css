@@ -239,6 +239,9 @@ h1 {
 .module {
     position: relative;
     display: inline-block;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     vertical-align: middle;
     color: #fff;
     background-color: #2F2A2A;
