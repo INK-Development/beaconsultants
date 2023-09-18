@@ -17,12 +17,12 @@ document.addEventListener("DOMContentLoaded",()=>{
                 html += `<div class="modules-section-title">`+response.layout[i].text+`</div>`;
             } else if (response.layout[i].type == "subtitle"){
                 html += `<div class="modules-section-subtitle">`+response.layout[i].text+`</div>`;
-            } else if (response.layout[i].type == "image" ){
-                let text = (response.layout[i].text == undefined) ? "--" : response.layout[i].text;
-                html += `<div class="modules-section-image">
-                            <div class="modules-section-image-top">`+text+`</div>
-                            <div class="modules-section-image-bottom" style="background-image: url('/screenshots/`+response.layout[i].url+`')"></div>
-                        </div>`; 
+            // } else if (response.layout[i].type == "image" ){
+            //     let text = (response.layout[i].text == undefined) ? "--" : response.layout[i].text;
+            //     html += `<div class="modules-section-image">
+            //                 <div class="modules-section-image-top">`+text+`</div>
+            //                 <div class="modules-section-image-bottom" style="background-image: url('/screenshots/`+response.layout[i].url+`')"></div>
+            //             </div>`; 
             } else if (response.layout[i].type == "description"){
                 html += `<div class="modules-section-description">` + response.layout[i].text +`</div>`;
             }

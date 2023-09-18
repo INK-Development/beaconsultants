@@ -60,3 +60,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     }
 
 });
+
+setTimeout(()=>{
+    window.location.reload();
+}, 240000);
